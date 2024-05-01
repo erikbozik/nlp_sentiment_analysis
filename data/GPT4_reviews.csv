@@ -1,0 +1,1227 @@
+review_id,review_text,sentiment
+1,"Tento produkt je úžasný a veľmi užitočný!",1
+2,"Som sklamaný z kvality tohto produktu.",0
+3,"Výborne funguje, odporúčam!",1
+4,"Nevydrží dlho, nie je to stojí za peniaze.",0
+5,"Excelentná kvalita za rozumnú cenu.",1
+6,"Produkt neprišiel včas a bol poškodený.",0
+7,"Veľmi spokojný s nákupom!",1
+8,"Hrozná zákaznícka podpora a produkt nezodpovedá popisu.",0
+9,"Výborný nákup, produkt presne ako je popísaný.",1
+10,"Úplne nevhodný, vrátil som ho.",0
+11,"Toto je to najlepšie, čo som kedy použil.",1
+12,"Za túto cenu lepšie nenájdete.",1
+13,"Produkt je úplne zbytočný a nefunkčný.",0
+14,"Nad moje očakávania, veľmi dobre!",1
+15,"Má to veľa chýb, nekupujte to.",0
+16,"Skvelý produkt, používam ho každý deň.",1
+17,"Toto je najhorší nákup aký som kedy urobil.",0
+18,"Veľmi odporúčam, skvelá kúpa.",1
+19,"Zlá kvalita, rýchlo sa pokazil.",0
+20,"Neuveriteľne dobré, maximálna spokojnosť.",1
+21,"Produkt nie je ako bol inzerovaný, veľké sklamanie.",0
+22,"Výnimočný produkt, funguje presne ako má.",1
+23,"Bol to strata peňazí.",0
+24,"Veľmi spokojný, kvalitný produkt.",1
+25,"Nepáčil sa mi, neodporúčam.",0
+26,"To najlepšie, čo som kúpil za dlhú dobu!",1
+27,"Produkt prišiel rozbitý a predajca neodpovedá.",0
+28,"Excelentná hodnota, určite by som kúpil znova.",1
+29,"Je to veľké sklamanie, očakával som viac.",0
+30,"Úžasný produkt, veľmi užitočný a efektívny.",1
+31,"Som veľmi spokojný s týmto nákupom, produkt je skvelý.",1
+32,"Nevyhovuje môjmu očakávaní, zbytočne minuté peniaze.",0
+33,"Perfektný produkt, vrelo odporúčam každému.",1
+34,"Tento produkt ma veľmi sklamal.",0
+35,"Je to úžasné, ako tento produkt funguje.",1
+36,"Úplný odpad, nič nepracuje ako malo.",0
+37,"Veľká spokojnosť, doporučujem.",1
+38,"Neodporúčam, má veľa technických problémov.",0
+39,"Toto je jedno z najlepších riešení na trhu.",1
+40,"Vrátil som ho deň po doručení, veľmi zlá skúsenosť.",0
+41,"Prekvapivo dobrý produkt, funkčný a pekný dizajn.",1
+42,"Kvalita je podpriemerná, očakával som viac.",0
+43,"Som nadšený, ako tento produkt zlepšil môj život.",1
+44,"Neodpovedá popisu, veľké sklamanie.",0
+45,"Fantastický produkt, presahuje očakávania.",1
+46,"Doručený v poškodenom stave, veľmi frustrujúce.",0
+47,"Má skvelé funkcie a ľahko sa používa.",1
+48,"Toto je podvod, produkt je úplne iný ako inzerovaný.",0
+49,"Celkovo vynikajúca kvalita a hodnota.",1
+50,"Úplné sklamanie, nekúpil by som znova.",0
+51,"Dobrá cena a kvalita, som veľmi spokojný.",1
+52,"Produkt prišiel neskoro a nefunguje správne.",0
+53,"Úžasný produkt, funguje presne ako sľúbili.",1
+54,"Nespĺňa moje očakávania, chýba mu kvalita.",0
+55,"Tento produkt je revolučný, doporučil by som ho každému.",1
+56,"Bol to strata času a peňazí, veľmi zle.",0
+57,"Vynikajúca kúpa, vysoko nad očakávania.",1
+58,"Hlukový a neefektívny, úplne sklamaný.",0
+59,"Je skvelé, že tento produkt existuje, veľmi užitočný.",1
+60,"Neodporúčam tento produkt, má mnoho problémov.",0
+61,"Fantastická kvalita za túto cenu, vrelo odporúčam.",1
+62,"Veľmi zlý zákaznícky servis, problémy s vrátením peňazí.",0
+63,"Veľmi spokojný s funkcionalitou a dizajnom.",1
+64,"Celková nekvalita, nefunguje ako by malo.",0
+65,"Veľmi dobrý nákup, spĺňa všetky moje potreby.",1
+66,"Zlomil sa po prvom použití, absolútne sklamanie.",0
+67,"Dobre funguje, som spokojný s výkonom.",1
+68,"Produkt je nefunkčný, strata peňazí.",0
+69,"Skvelý produkt, ľahko prekonáva konkurenciu.",1
+70,"Veľmi nekvalitné spracovanie, nekupujte!",0
+71,"Veľmi efektívny a spoľahlivý produkt, doporučujem.",1
+72,"Produkt nebol ako popísaný, veľmi nešťastný nákup.",0
+73,"Perfektné riešenie pre môj problém, veľmi spokojný.",1
+74,"Skúsenosť bola hrozná, produkt je pod očakávania.",0
+75,"Som ohromený, ako dobre tento produkt funguje.",1
+76,"Zlé materiály, vyzerá to, že to nebude dlho trvať.",0
+77,"Presne čo som potreboval, veľmi praktické.",1
+78,"Veľmi zlé spracovanie, hneď sa pokazilo.",0
+79,"Skvelý produkt, veľmi som spokojný.",1
+80,"Nespoľahlivý a zlý zákaznícky servis.",0
+81,"Produkt vysokej kvality, funguje bez problémov.",1
+82,"Nezodpovedá mojim potrebám, veľmi sklamaný.",0
+83,"Vynikajúci výrobok, robí presne to, čo mal robiť.",1
+84,"Produkt nie je hodný ceny, veľmi zlý.",0
+85,"Vynikajúci produkt s vysokou spokojnosťou.",1
+86,"Hrozný produkt, neodporúča sa.",0
+87,"Spoľahlivý a efektívny, presne ako som potreboval.",1
+88,"Celkovo sklamanie, nedosahuje štandardy.",0
+89,"Tento produkt ma ohromil svojou kvalitou.",1
+90,"Je to veľmi pomalé a neefektívne.",0
+91,"Skvelé, že som to kúpil, veľmi mi pomohlo.",1
+92,"Nepoužiteľné, musel som to vrátiť.",0
+93,"Produkt je vynikajúci, veľmi užitočný.",1
+94,"Nesplnil moje očakávania, je to menej ako priemerné.",0
+95,"Tento produkt je presne to, čo som potreboval.",1
+96,"Veľmi špatná skúsenosť, nič dobré na tom.",0
+97,"Odporúčam, veľmi dobrá kúpa.",1
+98,"Produkt mal vážne chyby, musel som ho vrátiť.",0
+99,"Skvelý výrobok, presahuje moje očakávania.",1
+100,"Neodporúčam, nie je hodný vašich peňazí.",0
+101,"Dobrá kvalita, dobre sa používa, celkovo spokojný.",1
+102,"Nespoľahlivé a nepraktické.",0
+103,"Robí presne to, čo sľubuje, veľká spokojnosť.",1
+104,"Je to hrozné, absolútne sklamanie.",0
+105,"Perfektný výrobok, veľmi odporúčam.",1
+106,"Nie je to, čo som očakával, zle strávené peniaze.",0
+107,"Spoľahlivý a dobrý výkon, doporučujem.",1
+108,"Veľmi zlá kvalita, zlyhanie na celej čiare.",0
+109,"Skvelý dizajn a funkčnosť, veľmi spokojný.",1
+110,"Nie je to hodné vašej pozornosti alebo peňazí.",0
+111,"Tento produkt splnil všetky moje očakávania, vynikajúci.",1
+112,"Veľmi zlé spracovanie, sklamanie.",0
+113,"Úžasný produkt, veľmi odporúčam každému.",1
+114,"Celková strata peňazí, veľmi neodporúčam.",0
+115,"Skvelý nákup, veľmi spokojný s kvalitou.",1
+116,"Produkt nebol funkčný pri príchode, veľké sklamanie.",0
+117,"Dobrý produkt za dobrú cenu, spokojnosť.",1
+118,"Produkt prišiel poškodený, zlá skúsenosť.",0
+119,"Veľmi užitočný a efektívny produkt.",1
+120,"Hlavné sklamanie, nič dobré o tomto produkte.",0
+121,"Pomohol mi vo veľa ohľadoch, veľmi dobrá kvalita.",1
+122,"Produkt je úplný odpad, nekupujte to.",0
+123,"Doporučujem tento produkt, spokojnosť.",1
+124,"Skúsenosť bola pod očakávaniami, zlé.",0
+125,"Odporúčam, vynikajúca funkčnosť a cena.",1
+126,"Veľmi zlá kvalita, neodporúča sa.",0
+127,"Produkt presiahol moje očakávania, veľmi dobrý.",1
+128,"Produkt je nepraktický a nespoľahlivý, veľmi zlý.",0
+129,"Funguje presne ako sľúbené, veľmi som spokojný.",1
+130,"Neodporúčam, zlá investícia.",0
+131,"Vynikajúci produkt, výkon presahuje očakávania.",1
+132,"Produkt je absolútne nevyhovujúci, vrátil som ho.",0
+133,"Tento výrobok ma veľmi potešil, doporučujem.",1
+134,"Nesplnil sľubované vlastnosti, veľké sklamanie.",0
+135,"Skvelá kvalita a cena, veľmi som spokojný.",1
+136,"Produkt bol poškodený a zákaznícka podpora je neochotná pomôcť.",0
+137,"Veľmi efektívny, presne čo som potreboval.",1
+138,"Toto bol úplný odpad peňazí, nefunguje ako mal.",0
+139,"Produkt splnil všetky moje očakávania, určite kúpim znova.",1
+140,"Produkt je nekvalitný a nezodpovedá popisu.",0
+141,"Vynikajúci výrobok, spokojnosť na každý deň.",1
+142,"Skúsenosť bola mizerná, neodporúčam.",0
+143,"Tento produkt je perfektný pre moje potreby, odporúčam.",1
+144,"Hodnotenie: veľmi zlé, produkt som vrátil.",0
+145,"Skvelá funkčnosť a užitočnosť, odporúčam každému.",1
+146,"Zlomil sa hneď po vybalení, zlé.",0
+147,"Výborný výkon a spoľahlivosť, skvelá kúpa.",1
+148,"Neuspokojivá kvalita, veľmi sklamaný.",0
+149,"Príjemne prekvapený kvalitou tohto produktu.",1
+150,"Celkový výkon je podpriemerný, neodporúča sa.",0
+151,"Doporučujem tento produkt, splnil moje očakávania.",1
+152,"Nefunkčný pri doručení, zákaznícka služba nepomohla.",0
+153,"Vynikajúce spracovanie, vysoká spokojnosť.",1
+154,"Produkt prišiel v zlom stave, veľmi frustrujúce.",0
+155,"Odporúčam, vynikajúca cena a kvalita.",1
+156,"Produkt je lacný a nedostatočný.",0
+157,"Perfektné pre moje potreby, skvelý nákup.",1
+158,"Nekvalitný a nespoľahlivý, zhoršuje skúsenosť.",0
+159,"Veľmi dobrý produkt, spokojnosť.",1
+160,"Produkt nepracuje správne, veľké sklamanie.",0
+161,"Spoľahlivosť a kvalita, presne ako som očakával.",1
+162,"Zákaznícka podpora je neexistujúca, nekupujte.",0
+163,"Perfektný výrobok, hodnota za peniaze.",1
+164,"Neodporúčam, produkt je horší, než sľubuje.",0
+165,"Vynikajúci, doporučujem všetkým, kto potrebuje spoľahlivý produkt.",1
+166,"Veľmi nízka kvalita, neodpovedá špecifikáciam.",0
+167,"Excelentný produkt, presne čo som hľadal.",1
+168,"Produkt je úplne zlý a bez užitku.",0
+169,"Funguje perfektne, rýchlo a efektívne.",1
+170,"Veľmi neodporúčam, zlá kvalita a servis.",0
+171,"Perfektná funkcia, dobrá cena, vysoká spokojnosť.",1
+172,"Nezodpovedá popisu, vrátil som produkt.",0
+173,"Výrobok presahuje moje očakávania, veľmi spokojný.",1
+174,"Hodnotenie 0 hviezdičiek, zlý nákup.",0
+175,"Vynikajúca užitočnosť, odporúčam každému.",1
+176,"Produkt prišiel poškodený, veľmi zlá skúsenosť.",0
+177,"Tento produkt má výborné recenzie a ja súhlasím.",1
+178,"Vrátil som ho, nefunguje ako malo.",0
+179,"Úžasná hodnota, veľmi užitočný produkt.",1
+180,"Produkt je úplný odpad, nespokojnosť.",0
+181,"Splnil všetky moje potreby a očakávania.",1
+182,"Produkt je nedostatočný a neodporúča sa.",0
+183,"Dobrá kvalita, skvelé výsledky, vrelo odporúčam.",1
+184,"Hrozný výrobok, zhoršuje skúsenosti.",0
+185,"Spoľahlivý a odolný, veľmi odporúčam.",1
+186,"Produkt mal chyby, neodporúčam kúpiť.",0
+187,"Produkt je skvelý, prekonáva očakávania.",1
+188,"Veľmi zlá kvalita, vrátil som to.",0
+189,"Výborná spokojnosť, kvalitný a užitočný produkt.",1
+190,"Nevhodný na použitie, veľmi zlá kúpa.",0
+191,"Vynikajúce hodnotenie, produkt funguje bez problémov.",1
+192,"Zlý produkt, zanechal som negatívnu recenziu.",0
+193,"Produkt splnil všetky očakávania, skvelá kúpa.",1
+194,"Produkt je absolútne zlyhanie, veľmi sklamaný.",0
+195,"Excelentný výrobok, presne ako bolo popísané.",1
+196,"Nesplnil žiadne očakávania, zlá kvalita.",0
+197,"Veľmi dobrý produkt, funguje ako mal.",1
+198,"Neodporúčam, početné problémy po krátkom použití.",0
+199,"Výrobok je vysoko hodnotený a spokojnosť je zaručená.",1
+200,"Produkt nebol podľa očakávaní, vrátil som ho.",0
+201,"Výborná investícia, produkt je spoľahlivý.",1
+202,"Nekvalitný a nespľňa popísané štandardy.",0
+203,"Veľmi spokojný, produkt presahuje moje očakávania.",1
+204,"Produkt je pod očakávaniami, sklamal ma.",0
+205,"Robí to, čo má, bez problémov.",1
+206,"Produkt je absolútne nevyhovujúci, nekupujte.",0
+207,"Veľmi odporúčam, produkt je vynikajúci.",1
+208,"Hodnotenie veľmi zlé, produkt som vrátil.",0
+209,"Produkt je vynikajúci a doporučujem ho.",1
+210,"Veľmi zlý výrobok, sklamanie na každom kroku.",0
+211,"Spoľahlivosť a dobrá cena, veľmi spokojný.",1
+212,"Vrátil som produkt, nespĺňa špecifikácie.",0
+213,"Produkt je skvelý, presne to, čo som potreboval.",1
+214,"Veľmi nízka úroveň, vrátil som ho bez váhania.",0
+215,"Odporúčam, funguje úžasne a je spoľahlivý.",1
+216,"Nepoužiteľný produkt, veľké sklamanie.",0
+217,"Excelentný produkt, veľmi spokojný s kúpou.",1
+218,"Zlá kúpa, produkt neodporúčam.",0
+219,"Skvelá kvalita, veľmi užitočný výrobok.",1
+220,"Nezodpovedá mojim očakávaniam, vrátil som produkt.",0
+221,"Produkt je presne ako popísaný, veľmi dobrý.",1
+222,"Produkt je menej ako priemerný, sklamal ma.",0
+223,"Vynikajúci výkon, hodnota za peniaze.",1
+224,"Nesplnené sľuby, zlý výrobok.",0
+225,"Produkt prekonáva očakávania, veľmi odporúčam.",1
+226,"Produkt nepracuje, ako mal, veľmi sklamaný.",0
+227,"Robí presne to, čo sľubuje, vysoká spokojnosť.",1
+228,"Produkt presahuje moje očakávania, vynikajúca kvalita.",1
+229,"Vrátil som tento produkt, bol absolútne zlý.",0
+230,"Výborný nákup, veľmi odporúčam tento produkt.",1
+231,"Hrozná skúsenosť, produkt je úplne zbytočný.",0
+232,"Veľmi spokojný, produkt presne zodpovedá môjmu očakávaniu.",1
+233,"Veľké sklamanie, produkt mal množstvo problémov.",0
+234,"Produkt je vysoko kvalitný a spoľahlivý.",1
+235,"Tento produkt bol veľkým sklamaním, vrátil som ho.",0
+236,"Excelentný výrobok, funguje bez problémov.",1
+237,"Zlá kvalita a neefektívny, neodporúčam.",0
+238,"Produkt je úžasný, veľmi užitočný a funkčný.",1
+239,"Nie je hodný ceny, veľmi zlá kúpa.",0
+240,"Tento produkt mi veľmi pomohol, vysoká kvalita.",1
+241,"Veľmi zlý produkt, nedoporučujem nikomu.",0
+242,"Doporučujem, produkt presne spĺňa moje potreby.",1
+243,"Produkt nefunguje ako mal, som veľmi sklamaný.",0
+244,"Produkt presahuje moje očakávania, vysoko odporúčam.",1
+245,"Nedostatočná kvalita, vrátil som tento produkt.",0
+246,"Produkt je výnimočný, veľmi dobre funguje.",1
+247,"Nekvalitný a nedostatočný, nie je hodný kúpy.",0
+248,"Skvelý produkt, spoľahlivý a efektívny.",1
+249,"Produkt bol poruchový po prvom použití, zlý.",0
+250,"Výborná kvalita, produkt je stojí za každý cent.",1
+251,"Veľké sklamanie, produkt neodpovedá popisu.",0
+252,"Spoľahlivý a robustný produkt, vrelo odporúčam.",1
+253,"Produkt je úplná strata peňazí, nekupujte.",0
+254,"Perfektný produkt, plne funkčný a užitočný.",1
+255,"Nesplnil očakávania, vrátil som ho.",0
+256,"Veľmi spokojný s kúpou, produkt funguje skvele.",1
+257,"Produkt je menej účinný, ako som očakával.",0
+258,"Tento produkt je skvelá kúpa, vysoko hodnotený.",1
+259,"Neodporúčam, zlá kvalita a servis.",0
+260,"Produkt je vysoko efektívny a spoľahlivý.",1
+261,"Produkt sa pokazil po krátkom použití.",0
+262,"Vynikajúci produkt, vrelo odporúčam.",1
+263,"Produkt nebol ako sľubovaný, vrátil som ho.",0
+264,"Excelentný výkon a kvalita, veľmi spokojný.",1
+265,"Produkt bol poškodený a servis neexistuje.",0
+266,"Skvelá kvalita a užitočnosť, doporučujem.",1
+267,"Produkt je horší, ako som očakával, veľmi zlý.",0
+268,"Robí presne to, čo má, vysoká odolnosť.",1
+269,"Zlá kvalita, nesplnila moje očakávania.",0
+270,"Veľmi dobrý produkt, odporúčam kúpiť.",1
+271,"Produkt prišiel poškodený, záruka bez užitku.",0
+272,"Produkt je spoľahlivý a veľmi užitočný, odporúčam.",1
+273,"Skúsenosť bola sklamaním, produkt je nedostatočný.",0
+274,"Doporučujem tento produkt, veľmi dobrá kvalita.",1
+275,"Produkt je úplný nezmysel, nesplnil žiadne štandardy.",0
+276,"Výborný produkt, presne čo som potreboval.",1
+277,"Za túto cenu som očakával viac, produkt je slabý.",0
+278,"Produkt je vysoko odporúčaný, skvelé funkcie.",1
+279,"Nesplnené sľuby, vrátil som produkt.",0
+280,"Spoľahlivý produkt, veľmi spokojný.",1
+281,"Produkt nefunguje, ako bol inzerovaný.",0
+282,"Skvelý výkon, dobrá cena, odporúčam.",1
+283,"Základné funkcie nefungujú, veľmi neodporúčam.",0
+284,"Produkt splnil všetky moje očakávania, odporúčam.",1
+285,"Produkt je veľmi zlý, zhoršil moje očakávania.",0
+286,"Veľmi dobrý nákup, produkt je spoľahlivý.",1
+287,"Hrozný produkt, úplne nevyhovujúci.",0
+288,"Perfektná kvalita, vysoko odporúčam tento produkt.",1
+289,"Produkt bol neúčinný, veľmi sklamaný.",0
+290,"Veľmi spokojný s funkčnosťou produktu.",1
+291,"Produkt mal vady a chyby, nedoporučujem.",0
+292,"Excelentná spoľahlivosť, veľmi dobrý produkt.",1
+293,"Produkt sa pokazil hneď po začatí používania.",0
+294,"Skvelá hodnota, produkt je veľmi efektívny.",1
+295,"Tento produkt je veľké sklamanie, nedoporučujem.",0
+296,"Výrobok je vynikajúci, doporučujem bez váhania.",1
+297,"Produkt nesplnil žiadnu z očakávaných funkcií.",0
+298,"Produkt je presne ako popísaný, veľmi spokojný.",1
+299,"Veľmi zlá kvalita, vrátil som produkt.",0
+300,"Produkt presahuje očakávania, skvelá kvalita.",1
+301,"Produkt je neúspešný, veľmi zlá investícia.",0
+302,"Vynikajúci produkt, veľmi odporúčam.",1
+303,"Produkt je nespoľahlivý, vrátil som ho.",0
+304,"Perfektný výkon, vysoká spokojnosť s kúpou.",1
+305,"Produkt je veľmi zlý, nedoporučujem.",0
+306,"Výborný nákup, produkt splnil všetky moje potreby.",1
+307,"Produkt je veľmi zlý, má veľa chýb.",0
+308,"Produkt je vynikajúci, vrelo odporúčam.",1
+309,"Vrátil som produkt, bol úplne nespoľahlivý.",0
+310,"Spoľahlivý a odolný, skvelá kúpa.",1
+311,"Produkt nesplnil očakávania, je pod štandardom.",0
+312,"Excelentná kvalita a funkčnosť, veľmi odporúčam.",1
+313,"Produkt bol veľkým sklamaním, vrátil som ho.",0
+314,"Produkt je spoľahlivý a hodnotný, doporučujem.",1
+315,"Produkt je horší než som očakával, vrátil som ho.",0
+316,"Skvelá funkčnosť, produkt odporúčam.",1
+317,"Produkt bol neúčinný, vrátil som ho hneď.",0
+318,"Produkt je vysoko kvalitný, veľmi som spokojný.",1
+319,"Produkt neodpovedal môjmu očakávaniu, veľké sklamanie.",0
+320,"Produkt je úžasný, funguje presne podľa popisu.",1
+321,"Produkt je neúčinný, sklamal ma.",0
+322,"Vynikajúci produkt, presahuje moje očakávania.",1
+323,"Produkt nezodpovedá popisu, je veľmi zlý.",0
+324,"Výborný produkt, doporučujem kúpiť.",1
+325,"Produkt nesplnil moje očakávania, vrátil som ho.",0
+326,"Doporučujem tento produkt, vysoká spoľahlivosť.",1
+327,"Produkt bol veľmi zlý, vrátil som ho.",0
+328,"Výnimočne kvalitný produkt, ktorý prevyšuje všetky moje očakávania a poskytuje výborné služby.",1
+329,"Hrozné, prišlo to v nesprávnej farbe a nezodpovedá popisu na webe.",0
+330,"Skvelé riešenie pre môj dom, produkt je tichý a efektívny.",1
+331,"Absolútne nespoľahlivý, zlyhal hneď po prvom použití.",0
+332,"Produkt je pôsobivý svojou kvalitou a spoľahlivosťou, odporúčam.",1
+333,"Mizerne spracovaný, bol poškodený hneď ako som ho vybalil.",0
+334,"Používanie tohto produktu je čistá radosť, vrelo odporúčam.",1
+335,"Produkt je neuveriteľne zlý, strata peňazí a času.",0
+336,"Funguje ako sľúbené, bez akýchkoľvek problémov.",1
+337,"Produkt bol veľkým sklamaním, mal veľa chýb od začiatku.",0
+338,"Výnimočná kvalita a cena, tento produkt je úžasný.",1
+339,"Celková zlyhanie, nič nefunguje ako by malo.",0
+340,"Produkt je jednoduchý na používanie a veľmi účinný.",1
+341,"Poškodený produkt, ktorý dorazil bez možnosti vrátenia.",0
+342,"Neuveriteľne dobrá hodnota, je to výrobok, ktorý každý potrebuje.",1
+343,"Celkovo podpriemerný, neodporúčam kúpu tohto produktu.",0
+344,"Bezproblémové používanie a skvelé výsledky, veľmi spokojný.",1
+345,"Nekonzistentná kvalita a zlá zákaznícka podpora.",0
+346,"Ideálne riešenie pre moje potreby, plne odporúčam.",1
+347,"Produkt má závažné nedostatky a neodporúča sa jeho nákup.",0
+348,"Tento produkt bol veľkým prekvapením v pozitívnom zmysle slova.",1
+349,"Nevyhovujúca funkčnosť, bol som nútený vrátiť.",0
+350,"Perfektná kombinácia ceny a kvality, plne odporúčam.",1
+351,"Veľmi nespokojný s kúpou, produkt je neefektívny.",0
+352,"Spĺňa všetky sľuby, vynikajúci produkt!",1
+353,"Produkt bol absolútne neúspešný, neodporúčam ho.",0
+354,"Výrobok je spoľahlivý, s dlhou životnosťou a veľmi dobrým výkonom.",1
+355,"Výrobok mal mechanické chyby hneď po vybalení.",0
+356,"Nad moje očakávania, skvelý nákup!",1
+357,"Nefunguje správne a zákaznícka služba je neexistujúca.",0
+358,"Produkt je vynikajúci, doporučujem.",1
+359,"Nekvalitné spracovanie, musel som to vrátiť.",0
+360,"Funguje bez akýchkoľvek problémov, veľmi odporúčam.",1
+361,"Produkt je absolútne zbytočný, vyhodil som peniaze.",0
+362,"Tento produkt prekonal moje očakávania v každom ohľade.",1
+363,"Produkt je takmer nepoužiteľný, neodporúčam.",0
+364,"Spoľahlivosť tohto produktu je neoceniteľná.",1
+365,"Zlá kúpa, nevydržal ani mesiac.",0
+366,"Výborný výrobok s dlhou životnosťou, odporúčam.",1
+367,"Vrátil som produkt kvôli jeho zlým funkciám.",0
+368,"Produkt je úžasne spoľahlivý, používam ho každý deň.",1
+369,"Nespoľahlivý produkt, ktorý nesplnil žiadne očakávania.",0
+370,"Výrobok má výbornú kvalitu a dlhú životnosť.",1
+371,"Všetky funkcie zlyhali hneď po rozbalení.",0
+372,"Robí to, čo má, a robí to dobre.",1
+373,"Produkt je menej účinný, ako sľubuje reklama.",0
+374,"Tento produkt je vynikajúci a veľmi odporúčam.",1
+375,"Celková nespokojnosť, produkt je nespoľahlivý.",0
+376,"Vynikajúci produkt, ktorý pravidelne používam.",1
+377,"Produkt nefunguje, ako by mal, veľmi sklamaný.",0
+378,"Tento produkt splnil všetky moje očakávania, odporúčam ho.",1
+379,"Je to úplný odpad, nič nefunguje.",0
+380,"Skvelá kúpa, produkt je presne to, čo som potreboval.",1
+381,"Produkt je veľmi zlý, mám s ním len zlé skúsenosti.",0
+382,"Odporúčam, veľmi dobrá kvalita a účinnosť.",1
+383,"Vrátil som ho kvôli viacerým problémom s kvalitou.",0
+384,"Produkt ma veľmi potešil svojou kvalitou.",1
+385,"Produkt je nepoužiteľný a neodporúčam.",0
+386,"Veľmi dobrý produkt, používam ho denne.",1
+387,"Produkt dorazil poškodený a zákaznícka služba neodpovedá.",0
+388,"Perfektná funkčnosť, presne ako bolo popísané.",1
+389,"Je to absolútne sklamanie, všetko na ňom zlyháva.",0
+390,"Produkt je spoľahlivý a veľmi efektívny, doporučujem.",1
+391,"Skúsenosť s týmto produktom bola frustrujúca.",0
+392,"Veľmi spokojný, produkt je robustný a spoľahlivý.",1
+393,"Nepoužiteľný, vrátil som ho hneď.",0
+394,"Vynikajúci, robustný a spoľahlivý, odporúčam.",1
+395,"Produkt je veľké sklamanie, veľmi zlá kúpa.",0
+396,"Produkt je výborný, splnil všetky moje požiadavky.",1
+397,"Nie je to, čo som očakával, vrátil som to.",0
+398,"Perfektný, funguje bez problémov, vrelo odporúčam.",1
+399,"Produkt sa rýchlo pokazil, skúsenosť bola zlá.",0
+400,"Veľmi spokojný, produkt funguje presne ako mal.",1
+401,"Produkt nebol, čo som očakával, vrátil som ho.",0
+402,"Skvelá kvalita a cena, produkt je spoľahlivý.",1
+403,"Produkt je úplná katastrofa, absolútne sklamanie.",0
+404,"Spoľahlivý, účinný a odolný, odporúčam.",1
+405,"Produkt je veľmi zlý, vrátil som ho.",0
+406,"Veľmi dobrý nákup, produkt je presne to, čo som chcel.",1
+407,"Produkt je sklamaním, nefunguje správne.",0
+408,"Dobrá cena za výbornú kvalitu, odporúčam.",1
+409,"Celkové sklamanie, produkt nemá žiadnu hodnotu.",0
+410,"Produkt je spoľahlivý, efektívny a odporúčam ho.",1
+411,"Produkt je pod úrovňou očakávaní, vrátil som ho.",0
+412,"Spoľahlivosť a efektívnosť tohto produktu sú na vysokej úrovni.",1
+413,"Produkt bol hrozný, vrátil som ho.",0
+414,"Skvelý produkt, dlhodobá spokojnosť.",1
+415,"Produkt je veľmi zlý, neodporúčam ho nikomu.",0
+416,"Odporúčam tento produkt pre jeho spoľahlivosť a funkčnosť.",1
+417,"Produkt je hrozný, nekupujte ho.",0
+418,"Výborný produkt, skvelé funkcie, skvelá cena.",1
+419,"Produkt je úplne bezcenný, neodporúčam.",0
+420,"Výrobok je robustný, spoľahlivý a vrelo odporúčam.",1
+421,"Produkt bol zlý, vrátil som ho kvôli viacerým chybám.",0
+422,"Vynikajúci výkon, dlhá životnosť, skvelá investícia.",1
+423,"Produkt sa rýchlo pokazil, nemohol som ho používať.",0
+424,"Produkt je efektívny, spoľahlivý a veľmi odporúčam.",1
+425,"Veľmi zlá kvalita, produkt je zlý.",0
+426,"Perfektný výkon, odolnosť a spoľahlivosť.",1
+427,"Produkt nezodpovedá popisu, vrátil som ho.",0
+428,"Spoľahlivý a užitočný produkt, ktorý doporučujem.",1
+429,"Produkt bol hrozný, nesplnil žiadne očakávania.",0
+430,"Produkt je odolný a dlhotrvajúci, skvelá kúpa.",1
+431,"Hrozná kvalita, musel som to vrátiť.",0
+432,"Skvelý produkt, spoľahlivý a užitočný, odporúčam.",1
+433,"Produkt je neefektívny a má veľa chýb.",0
+434,"Spoľahlivosť tohto produktu je veľká výhoda.",1
+435,"Produkt je sklamaním, neodporúčam.",0
+436,"Vynikajúci, robustný a efektívny produkt.",1
+437,"Produkt sa rýchlo pokazil, veľmi zlá skúsenosť.",0
+438,"Produkt je vysoko hodnotený pre jeho spoľahlivosť.",1
+439,"Produkt je podpriemerný, vrátil som ho.",0
+440,"Produkt presahuje moje očakávania, skvelá kúpa.",1
+441,"Produkt je veľké sklamanie, neodporúčam.",0
+442,"Spoľahlivosť a kvalita tohto produktu sú výborné.",1
+443,"Veľmi zlý produkt, vrátil som ho hneď.",0
+444,"Doporučujem tento produkt kvôli jeho vysokému výkonu a spoľahlivosti.",1
+445,"Produkt je sklamaním, nesplnil moje očakávania.",0
+446,"Produkt je účinný, odolný a odporúčam ho.",1
+447,"Produkt bol absolútne zlý, musel som ho vrátiť.",0
+448,"Vynikajúci produkt, ktorý som odporúčal svojim priateľom.",1
+449,"Produkt mal mnoho technických problémov, neodporúčam.",0
+450,"Vynikajúci produkt, splnil všetky moje očakávania.",1
+451,"Produkt bol veľmi zlý, vrátil som ho.",0
+452,"Produkt je skvelý, splnil všetko, čo sľúbil.",1
+453,"Nekvalitný produkt, sklamal ma.",0
+454,"Tento produkt je úžasný, veľmi užitočný a vysoko odporúčaný.",1
+455,"Produkt bol neuspokojivý, vrátil som ho kvôli mnohým problémom.",0
+456,"Odporúčam tento produkt pre jeho vysokú efektívnosť a kvalitu.",1
+457,"Produkt je zlý a má veľa chýb.",0
+458,"Produkt je spoľahlivý, efektívny a doporučujem ho všetkým.",1
+459,"Produkt je veľmi zlý, sklamanie.",0
+460,"Perfektný produkt, odolnosť a spoľahlivosť.",1
+461,"Produkt neodpovedal mojim očakávaniam, bol to sklamanie.",0
+462,"Skvelá kvalita, vynikajúca cena, produkt odporúčam.",1
+463,"Produkt bol hrozný, musel som ho vrátiť.",0
+464,"Spoľahlivosť tohto produktu ma ohromila, odporúčam.",1
+465,"Produkt je zlý a nefunkčný, nekupujte.",0
+466,"Vynikajúci produkt, vysoká kvalita a dobrá cena.",1
+467,"Produkt bol veľmi zlý, vrátil som ho.",0
+468,"Skvelý produkt, odporúčam pre jeho spoľahlivosť a užitočnosť.",1
+469,"Produkt nezodpovedá popisu, bol som sklamaný.",0
+470,"Produkt je spoľahlivý a veľmi odolný, odporúčam.",1
+471,"Produkt je zlý, neodporúčam jeho kúpu.",0
+472,"Odporúčam tento produkt, je veľmi spoľahlivý a efektívny.",1
+473,"Produkt neodpovedal očakávaniam, vrátil som ho.",0
+474,"Skvelý produkt, odolný a spoľahlivý, odporúčam.",1
+475,"Produkt bol úplný odpad, veľmi sklamaný.",0
+476,"Vynikajúci produkt, vysoko odporúčam.",1
+477,"Produkt je neúčinný, vrátil som ho.",0
+478,"Neoceniteľný produkt, ktorý zásadne zlepšil moje každodenné používanie.",1
+479,"Produkt prišiel s vážnymi chybami, musel som ho vrátiť.",0
+480,"Neuveriteľne spokojný, produkt presahuje všetky moje očakávania.",1
+481,"Závažné problémy s funkčnosťou, určite neodporúčam.",0
+482,"Výborný produkt, ktorý ponúka vysokú spoľahlivosť a dlhotrvajúcu kvalitu.",1
+483,"Vrátil som produkt kvôli jeho absolútnej neefektívnosti.",0
+484,"Spoľahlivosť, kvalita a cena tohto produktu sú na vysokej úrovni.",1
+485,"Celkové sklamanie, produkt mal mnoho nedostatkov.",0
+486,"Vynikajúci výkon, robustnosť a kvalita, tento produkt ma nikdy nesklamal.",1
+487,"Produkt je pod úrovňou, neodpovedá opisu ani očakávaniam.",0
+488,"Tento produkt je životnou zmenou, maximálna spokojnosť.",1
+489,"Vrátil som to hneď, bolo to absolútne nepoužiteľné.",0
+490,"Tento produkt má výborné recenzie a ja môžem len súhlasiť.",1
+491,"Produkt sa pokazil po prvom použití, vrátil som ho.",0
+492,"Produkt je spoľahlivý a efektívny, používam ho každý deň bez problémov.",1
+493,"Toto bol môj najhorší nákup v živote, neodporúčam.",0
+494,"Odporúčam tento produkt pre jeho konzistentnú spoľahlivosť a vysokú kvalitu.",1
+495,"Produkt je absolútne zlyhanie, nesplnil žiadne z mojich očakávaní.",0
+496,"Spoľahlivý, užitočný a cenovo dostupný, tento produkt je všetko, čo potrebujem.",1
+497,"Kvalita a funkčnosť sú pod očakávaniami, veľmi sklamaný.",0
+498,"Perfektný pre domáce použitie, tento produkt uľahčuje život.",1
+499,"Produkt má vážne vady a zlú zákaznícku podporu.",0
+500,"Vynikajúci produkt s dlhou životnosťou a bezchybným výkonom.",1
+501,"Celkovo zlá skúsenosť, zákaznícka podpora bola nepríjemná.",0
+502,"Výrobok prekročil všetky moje očakávania, vrelo odporúčam.",1
+503,"Produkt bol poškodený a neopraviteľný, úplné sklamanie.",0
+504,"Skvelá investícia, produkt poskytuje presne to, čo sľubuje.",1
+505,"Neprijateľná kvalita, neodpovedá štandardom, ktoré som očakával.",0
+506,"Skvelý výrobok s excelentnou funkcionalitou a odolnosťou.",1
+507,"Veľmi nízka kvalita, neodporúčam.",0
+508,"Vynikajúci produkt, ktorý vždy dodržiava svoje sľuby.",1
+509,"Produkt je úplne nefunkčný, hneď sa pokazil.",0
+510,"Spoľahlivý a odolný, tento produkt je skutočne výnimočný.",1
+511,"Produkt nezodpovedal mojim očakávaniam, bol vrátený.",0
+512,"Vynikajúca kvalita, dlhotrvajúci produkt, ktorý stojí za investíciu.",1
+513,"Produkt bol nekompletný a mal zlé spracovanie.",0
+514,"Produkt poskytuje výnimočný výkon a dlhú životnosť.",1
+515,"Zlá skúsenosť, produkt je podstatne horší, než reklama naznačovala.",0
+516,"Vysoká kvalita za rozumnú cenu, tento produkt mi veľmi vyhovuje.",1
+517,"Produkt je zlyhanie na celom fronte, vrátil som ho.",0
+518,"Tento produkt je synonymom spoľahlivosti a efektivity.",1
+519,"Produkt bol veľmi sklamaním, nič nefungovalo správne.",0
+520,"Veľmi odporúčam, produkt je presne ako je popísaný a funguje skvele.",1
+521,"Veľmi zlá kvalita, produkt som vrátil po prvom použití.",0
+522,"Produkt je robustný, spoľahlivý a odolný, skvelá kúpa.",1
+523,"Produkt je horší, ako som očakával, vrátil som ho.",0
+524,"Veľmi dobrý produkt, poskytuje spoľahlivý výkon a kvalitu.",1
+525,"Produkt prišiel poškodený, bol som veľmi sklamaný.",0
+526,"Tento produkt som kúpil na základe vynikajúcich recenzií a súhlasím s nimi.",1
+527,"Produkt je veľmi zlý, nemá žiadnu hodnotu.",0
+528,"Spoľahlivosť a dlhá životnosť robia z tohto produktu jednoznačnú voľbu.",1
+529,"Produkt bol absolútne bezcenný, vrátil som ho bez váhania.",0
+530,"Odolný a spoľahlivý produkt, ktorý mi uľahčuje každodenné používanie.",1
+531,"Veľmi zlá skúsenosť, produkt nevyhovuje popisu.",0
+532,"Vysoká kvalita, odolnosť a spoľahlivosť sú kľúčové prvky tohto produktu.",1
+533,"Produkt nebol ako očakávaný, skúsenosť bola frustrujúca.",0
+534,"Veľmi odporúčam, produkt je úžasný a funguje bez problémov.",1
+535,"Produkt je zlý, musel som ho vrátiť kvôli viacerým problémom.",0
+536,"Tento produkt je jedným z najlepších nákupov, ktoré som kedy urobil.",1
+537,"Nefunguje správne, bol som sklamaný a musel som ho vrátiť.",0
+538,"Produkt je vynikajúci, odolný a ponúka vysokú úroveň funkčnosti.",1
+539,"Veľmi zlý produkt, ktorý neodporúčam nikomu.",0
+540,"Produkt je spoľahlivý a poskytuje vynikajúci výkon, doporučujem.",1
+541,"Produkt je menej ako priemerný, celkové sklamanie.",0
+542,"Perfektný produkt, ktorý splnil všetky moje požiadavky a očakávania.",1
+543,"Produkt mal vážne technické problémy, vrátil som ho.",0
+544,"Produkt je výnimočný, poskytuje výbornú hodnotu za svoju cenu.",1
+545,"Produkt nebol spokojný, vrátil som ho kvôli nedostatočnej kvalite.",0
+546,"Spoľahlivý produkt, ktorý mi uľahčuje prácu a zlepšuje život.",1
+547,"Produkt je veľmi nespoľahlivý, vrátil som ho hneď ako to bolo možné.",0
+548,"Odporúčam tento produkt kvôli jeho odolnosti a spoľahlivosti.",1
+549,"Produkt bol veľmi zlý a nespĺňal žiadne štandardy.",0
+550,"Vynikajúci produkt, ktorý prekonal všetky moje očakávania, určite odporúčam.",1
+551,"Produkt bol hrozný, vrátil som ho kvôli viacerým chybám.",0
+552,"Produkt poskytuje skvelý výkon a je veľmi spoľahlivý.",1
+553,"Produkt je zlý, neposkytuje to, čo sľubuje.",0
+554,"Spoľahlivosť tohto produktu je bezkonkurenčná, odporúčam.",1
+555,"Produkt je veľmi zlý, vrátil som ho bez ďalšieho používania.",0
+556,"Tento produkt je výnimočný, vrelo odporúčam.",1
+557,"Produkt neodpovedal mojim očakávaniam, bol vrátený.",0
+558,"Produkt je spoľahlivý a poskytuje konzistentný výkon, doporučujem.",1
+559,"Veľmi zlý produkt, vrátil som ho kvôli chybám.",0
+560,"Perfektný produkt, vysoko spoľahlivý a odporúčam.",1
+561,"Produkt bol absolútne zlyhanie, nesplnil žiadne očakávania.",0
+562,"Výnimočná kvalita a spoľahlivosť, tento produkt je top voľba.",1
+563,"Produkt nebol funkčný, sklamal ma hneď na začiatku.",0
+564,"Produkt je vynikajúci, ponúka spoľahlivosť a vysokú kvalitu.",1
+565,"Produkt je horší než som očakával, vrátil som ho.",0
+566,"Tento produkt je jedným z najlepších na trhu, odporúčam.",1
+567,"Produkt je zlý, vrátil som ho kvôli zlým funkciám.",0
+568,"Produkt je spoľahlivý, efektívny a cenovo dostupný.",1
+569,"Nesplnené sľuby, produkt je sklamaním.",0
+570,"Vynikajúca kvalita a výkon, tento produkt je skvelý nákup.",1
+571,"Produkt je veľmi zlý, vrátil som ho.",0
+572,"Produkt je skvelý, poskytuje presne to, čo potrebujem.",1
+573,"Produkt bol nespoľahlivý, vrátil som ho.",0
+574,"Odporúčam tento produkt, je spoľahlivý a poskytuje výborný výkon.",1
+575,"Produkt bol veľkým sklamaním, mal mnoho technických problémov.",0
+576,"Výborná kvalita, produkt splnil všetky moje očakávania.",1
+577,"Produkt je veľmi zlý, vrátil som ho kvôli viacerým problémom.",0
+578,"Produkt je spoľahlivý, cenovo dostupný a presne spĺňa moje očakávania.",1
+579,"Nepodarilo sa mi produkt spustiť, vrátil som ho kvôli závažným chybám.",0
+580,"Vysoká kvalita za rozumnú cenu; som veľmi spokojný s týmto nákupom.",1
+581,"Produkt sa zrútil po niekoľkých použitiach a bol absolútne nespoľahlivý.",0
+582,"Skvelý produkt, ktorý mi každodenne uľahčuje prácu a zvyšuje produktivitu.",1
+583,"Zlyhanie produktu spôsobilo frustráciu a stratu času; neodporúčam.",0
+584,"Perfektný produkt pre môj domov, veľmi odporúčam pre jeho funkčnosť a dizajn.",1
+585,"Produkt neprišiel s niektorými sľubovanými komponentmi, bol som nútený ho vrátiť.",0
+586,"Produkt je tichý, efektívny a presne ako bol popísaný, veľmi som spokojný.",1
+587,"Veľké sklamanie, produkt bol nekompletný a zákaznícka podpora neodpovedala.",0
+588,"Vynikajúci produkt, ktorý spoľahlivo plní všetky svoje funkcie.",1
+589,"Veľmi nekvalitný produkt, stratil funkčnosť po krátkom používaní.",0
+590,"Produkt ma ohromil svojou odolnosťou a spoľahlivosťou, vrelo odporúčam.",1
+591,"Produkt je nepoužiteľný, vrátil som ho a čakám na vrátenie peňazí.",0
+592,"Vysoko efektívny produkt, ktorý mi šetrí čas a energiu každý deň.",1
+593,"Produkt mal vážne softvérové chyby, ktoré znemožňovali jeho použitie.",0
+594,"Tento produkt ma presvedčil svojou kvalitou a odolnosťou, je to dobrá kúpa.",1
+595,"Vrátil som produkt, pretože nespĺňal sľubované špecifikácie.",0
+596,"Produkt je vynikajúci a poskytuje skvelú hodnotu za peniaze.",1
+597,"Produkt prišiel s poškodeným obalom a chýbajúcimi dielmi.",0
+598,"Vynikajúca kvalita, produkt je spoľahlivý a veľmi odolný.",1
+599,"Produkt nesplnil základné funkcie, ktoré boli reklamované.",0
+600,"Veľmi som spokojný s týmto produktom, spĺňa všetky moje potreby.",1
+601,"Tento produkt ma sklamaním kvôli jeho podpriemernému výkonu.",0
+602,"Vysoká spoľahlivosť a jednoduchosť používania robia tento produkt výnimočným.",1
+603,"Produkt bol vrátený kvôli zlyhaniu po prvom použití.",0
+604,"Veľmi užitočný produkt, ktorý je ľahko použiteľný a funkčný.",1
+605,"Produkt bol extrémne nekvalitný a neodolný.",0
+606,"Tento produkt pravidelne používam a som s ním maximálne spokojný.",1
+607,"Neodpovedal očakávaniam, nedostatočná kvalita a funkcionalita.",0
+608,"Skvelá kúpa, produkt je odolný a funguje presne ako sľúbené.",1
+609,"Produkt prišiel poškodený a nemohol byť opravený.",0
+610,"Produkt je vysoko odporúčaný kvôli svojej kvalite a spoľahlivosti.",1
+611,"Produkt bol neúspešný a spôsobil viac problémov než riešení.",0
+612,"Vynikajúci produkt, veľmi spoľahlivý a s dlhou životnosťou.",1
+613,"Vrátil som produkt kvôli jeho úplnej neefektívnosti.",0
+614,"Odolný, spoľahlivý a cenovo dostupný, tento produkt splnil všetky moje očakávania.",1
+615,"Produkt mal závažné mechanické chyby, ktoré znemožnili jeho používanie.",0
+616,"Tento produkt je vynikajúci, pomáha mi v každodennej práci.",1
+617,"Veľmi zlý produkt, stratil funkčnosť veľmi rýchlo.",0
+618,"Skvelý produkt s vysokou funkčnosťou a užitočnosťou.",1
+619,"Produkt bol veľkým sklamaním, neodporúčam.",0
+620,"Produkt je úžasný, veľmi efektívny a odolný.",1
+621,"Produkt bol nesprávne popísaný a nespĺňal očakávania.",0
+622,"Spoľahlivý a odolný produkt, ktorý odporúčam všetkým.",1
+623,"Produkt nevyhovoval špecifikáciám a bol veľmi nespoľahlivý.",0
+624,"Perfektný produkt, ktorý funguje bez akýchkoľvek problémov.",1
+625,"Produkt nebol, ako bol inzerovaný, vrátil som ho.",0
+626,"Vynikajúca kvalita a spoľahlivosť, tento produkt splnil všetky moje potreby.",1
+627,"Produkt bol veľmi zlý, nekvalitný a neodolný.",0
+628,"Produkt je spoľahlivý, efektívny a cenovo dostupný, vrelo odporúčam.",1
+629,"Produkt prišiel poškodený a nemohol byť použitý.",0
+630,"Tento produkt je jeden z najlepších, ktoré som kedy mal.",1
+631,"Produkt bol neefektívny a spôsobil viac problémov ako úžitku.",0
+632,"Perfektný pre moje potreby, produkt je spoľahlivý a ľahko použiteľný.",1
+633,"Produkt bol vrátený kvôli zlým vlastnostiam a nedostatočnej kvalite.",0
+634,"Vynikajúci produkt, ktorý pravidelne používam a som veľmi spokojný.",1
+635,"Produkt mal vážne vady pri doručení a bol neopraviteľný.",0
+636,"Spoľahlivý a cenovo dostupný, tento produkt je skvelou voľbou.",1
+637,"Produkt nesplnil žiadne z mojich očakávania, bol to sklamanie.",0
+638,"Odporúčam tento produkt, je spoľahlivý a ponúka výborný výkon.",1
+639,"Produkt bol zlý a zlyhal vo viacerých aspektoch.",0
+640,"Vysoko odporúčam tento produkt kvôli jeho výkonu a spoľahlivosti.",1
+641,"Produkt bol neúčinný, vrátil som ho a čakám na vrátenie peňazí.",0
+642,"Vynikajúci výrobok s dlhou životnosťou, ktorý pravidelne používam.",1
+643,"Produkt nesplnil základné funkcie, ktoré boli reklamované.",0
+644,"Skvelá kúpa, produkt je odolný a funguje presne ako sľúbené.",1
+645,"Produkt prišiel poškodený a nemohol byť opravený.",0
+646,"Produkt je vysoko odporúčaný kvôli svojej kvalite a spoľahlivosti.",1
+647,"Produkt bol neúspešný a spôsobil viac problémov než riešení.",0
+648,"Vynikajúci produkt, veľmi spoľahlivý a s dlhou životnosťou.",1
+649,"Vrátil som produkt kvôli jeho úplnej neefektívnosti.",0
+650,"Odolný, spoľahlivý a cenovo dostupný, tento produkt splnil všetky moje očakávania.",1
+651,"Produkt mal závažné mechanické chyby, ktoré znemožnili jeho používanie.",0
+652,"Tento produkt je vynikajúci, pomáha mi v každodennej práci.",1
+653,"Veľmi zlý produkt, stratil funkčnosť veľmi rýchlo.",0
+654,"Skvelý produkt s vysokou funkčnosťou a užitočnosťou.",1
+655,"Produkt bol veľkým sklamaním, neodporúčam.",0
+656,"Produkt je úžasný, veľmi efektívny a odolný.",1
+657,"Produkt bol nesprávne popísaný a nespĺňal očakávania.",0
+658,"Spoľahlivý a odolný produkt, ktorý odporúčam všetkým.",1
+659,"Produkt nevyhovoval špecifikáciám a bol veľmi nespoľahlivý.",0
+660,"Perfektný produkt, ktorý funguje bez akýchkoľvek problémov.",1
+661,"Produkt nebol, ako bol inzerovaný, vrátil som ho.",0
+662,"Vynikajúca kvalita a spoľahlivosť, tento produkt splnil všetky moje potreby.",1
+663,"Produkt bol veľmi zlý, nekvalitný a neodolný.",0
+664,"Produkt je spoľahlivý, efektívny a cenovo dostupný, vrelo odporúčam.",1
+665,"Produkt prišiel poškodený a nemohol byť použitý.",0
+666,"Tento produkt je jeden z najlepších, ktoré som kedy mal.",1
+667,"Produkt bol neefektívny a spôsobil viac problémov ako úžitku.",0
+668,"Perfektný pre moje potreby, produkt je spoľahlivý a ľahko použiteľný.",1
+669,"Produkt bol vrátený kvôli zlým vlastnostiam a nedostatočnej kvalite.",0
+670,"Vynikajúci produkt, ktorý pravidelne používam a som veľmi spokojný.",1
+671,"Produkt mal vážne vady pri doručení a bol neopraviteľný.",0
+672,"Spoľahlivý a cenovo dostupný, tento produkt je skvelou voľbou.",1
+673,"Produkt nesplnil žiadne z mojich očakávania, bol to sklamanie.",0
+674,"Odporúčam tento produkt, je spoľahlivý a ponúka výborný výkon.",1
+675,"Produkt bol zlý a zlyhal vo viacerých aspektoch.",0
+676,"Vysoko odporúčam tento produkt kvôli jeho výkonu a spoľahlivosti.",1
+677,"Produkt bol neúčinný, vrátil som ho a čakám na vrátenie peňazí.",0
+678,"Vynikajúci výrobok s dlhou životnosťou, ktorý pravidelne používam.",1
+679,"Produkt nesplnil základné funkcie, ktoré boli reklamované.",0
+680,"Skvelá kúpa, produkt je odolný a funguje presne ako sľúbené.",1
+681,"Produkt prišiel poškodený a nemohol byť opravený.",0
+682,"Produkt je vysoko odporúčaný kvôli svojej kvalite a spoľahlivosti.",1
+683,"Produkt bol neúspešný a spôsobil viac problémov než riešení.",0
+684,"Vynikajúci produkt, veľmi spoľahlivý a s dlhou životnosťou.",1
+685,"Vrátil som produkt kvôli jeho úplnej neefektívnosti.",0
+686,"Odolný, spoľahlivý a cenovo dostupný, tento produkt splnil všetky moje očakávania.",1
+687,"Produkt mal závažné mechanické chyby, ktoré znemožnili jeho používanie.",0
+688,"Tento produkt je vynikajúci, pomáha mi v každodennej práci.",1
+689,"Veľmi zlý produkt, stratil funkčnosť veľmi rýchlo.",0
+690,"Skvelý produkt s vysokou funkčnosťou a užitočnosťou.",1
+691,"Produkt bol veľkým sklamaním, neodporúčam.",0
+692,"Produkt je úžasný, veľmi efektívny a odolný.",1
+693,"Produkt bol nesprávne popísaný a nespĺňal očakávania.",0
+694,"Spoľahlivý a odolný produkt, ktorý odporúčam všetkým.",1
+695,"Produkt nevyhovoval špecifikáciám a bol veľmi nespoľahlivý.",0
+696,"Perfektný produkt, ktorý funguje bez akýchkoľvek problémov.",1
+697,"Produkt nebol, ako bol inzerovaný, vrátil som ho.",0
+698,"Vynikajúca kvalita a spoľahlivosť, tento produkt splnil všetky moje potreby.",1
+699,"Produkt bol veľmi zlý, nekvalitný a neodolný.",0
+700,"Produkt je spoľahlivý, efektívny a cenovo dostupný, vrelo odporúčam.",1
+701,"Produkt prišiel poškodený a nemohol byť použitý.",0
+702,"Tento produkt je jeden z najlepších, ktoré som kedy mal.",1
+703,"Produkt bol neefektívny a spôsobil viac problémov ako úžitku.",0
+704,"Perfektný pre moje potreby, produkt je spoľahlivý a ľahko použiteľný.",1
+705,"Produkt bol vrátený kvôli zlým vlastnostiam a nedostatočnej kvalite.",0
+706,"Vynikajúci produkt, ktorý pravidelne používam a som veľmi spokojný.",1
+707,"Produkt mal vážne vady pri doručení a bol neopraviteľný.",0
+708,"Spoľahlivý a cenovo dostupný, tento produkt je skvelou voľbou.",1
+709,"Produkt nesplnil žiadne z mojich očakávania, bol to sklamanie.",0
+710,"Odporúčam tento produkt, je spoľahlivý a ponúka výborný výkon.",1
+711,"Produkt bol zlý a zlyhal vo viacerých aspektoch.",0
+712,"Vysoko odporúčam tento produkt kvôli jeho výkonu a spoľahlivosti.",1
+713,"Produkt bol neúčinný, vrátil som ho a čakám na vrátenie peňazí.",0
+714,"Vynikajúci výrobok s dlhou životnosťou, ktorý pravidelne používam.",1
+715,"Produkt nesplnil základné funkcie, ktoré boli reklamované.",0
+716,"Skvelá kúpa, produkt je odolný a funguje presne ako sľúbené.",1
+717,"Produkt prišiel poškodený a nemohol byť opravený.",0
+718,"Produkt je vysoko odporúčaný kvôli svojej kvalite a spoľahlivosti.",1
+719,"Produkt bol neúspešný a spôsobil viac problémov než riešení.",0
+720,"Vynikajúci produkt, veľmi spoľahlivý a s dlhou životnosťou.",1
+721,"Vrátil som produkt kvôli jeho úplnej neefektívnosti.",0
+722,"Odolný, spoľahlivý a cenovo dostupný, tento produkt splnil všetky moje očakávania.",1
+723,"Produkt mal závažné mechanické chyby, ktoré znemožnili jeho používanie.",0
+724,"Tento produkt je vynikajúci, pomáha mi v každodennej práci.",1
+725,"Veľmi zlý produkt, stratil funkčnosť veľmi rýchlo.",0
+726,"Skvelý produkt s vysokou funkčnosťou a užitočnosťou.",1
+727,"Produkt bol veľkým sklamaním, neodporúčam.",0
+728,"Produkt je výnimočný, poskytuje vynikajúcu funkčnosť a trvanlivosť.",1
+729,"Neuspokojivá kvalita a chýbajúce funkcie, vrátil som ho bez váhania.",0
+730,"Vysoko efektívny a spoľahlivý produkt, ktorý odporúčam každému.",1
+731,"Produkt sa pokazil hneď po prvom použití, úplné sklamanie.",0
+732,"Veľmi odolný a spoľahlivý, tento produkt je vynikajúca voľba.",1
+733,"Kvalita bola pod moje očakávania, nebol stojí za cenu.",0
+734,"Výborný produkt, ktorý prekonal všetky moje očakávania.",1
+735,"Produkt neodpovedal popisom a bol plný chýb.",0
+736,"Tento produkt ma úplne nadchol svojou kvalitou a výkonom.",1
+737,"Záručný servis bol neústretový, produkt mal vážne vady.",0
+738,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+739,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+740,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+741,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+742,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+743,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+744,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+745,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+746,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+747,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+748,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+749,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+750,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+751,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+752,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+753,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+754,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+755,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+756,"Produkt je výnimočne dobry v svojej kategórii, perfektne splnil moje očakávania.",1
+757,"Nespokojný s výkonom, produkt bol neefektívny.",0
+758,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+759,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+760,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+761,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+762,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+763,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+764,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+765,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+766,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+767,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+768,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+769,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+770,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+771,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+772,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+773,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+774,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+775,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+776,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+777,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+778,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+779,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+780,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+781,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+782,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+783,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+784,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+785,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+786,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+787,"Produkt bol poškodený a nemal žiadnu záruku.",0
+788,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+789,"Produkt sa pokazil po pár dňoch používania.",0
+790,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+791,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+792,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+793,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+794,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+795,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+796,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+797,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+798,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+799,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+800,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+801,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+802,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+803,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+804,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+805,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+806,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+807,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+808,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+809,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+810,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+811,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+812,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+813,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+814,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+815,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+816,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+817,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+818,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+819,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+820,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+821,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+822,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+823,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+824,"Produkt je výnimočne dobrý v svojej kategórii, perfektne splnil moje očakávania.",1
+825,"Nespokojný s výkonom, produkt bol neefektívny.",0
+826,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+827,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+828,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+829,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+830,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+831,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+832,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+833,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+834,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+835,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+836,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+837,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+838,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+839,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+840,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+841,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+842,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+843,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+844,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+845,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+846,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+847,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+848,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+849,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+850,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+851,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+852,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+853,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+854,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+855,"Produkt bol poškodený a nemal žiadnu záruku.",0
+856,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+857,"Produkt sa pokazil po pár dňoch používania.",0
+858,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+859,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+860,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+861,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+862,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+863,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+864,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+865,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+866,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+867,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+868,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+869,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+870,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+871,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+872,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+873,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+874,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+875,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+876,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+877,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+878,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+879,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+880,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+881,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+882,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+883,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+884,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+885,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+886,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+887,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+888,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+889,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+890,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+891,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+892,"Produkt je výnimočne dobrý v svojej kategórii, perfektne splnil moje očakávania.",1
+893,"Nespokojný s výkonom, produkt bol neefektívny.",0
+894,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+895,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+896,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+897,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+898,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+899,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+900,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+901,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+902,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+903,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+904,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+905,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+906,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+907,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+908,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+909,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+910,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+911,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+912,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+913,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+914,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+915,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+916,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+917,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+918,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+919,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+920,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+921,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+922,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+923,"Produkt bol poškodený a nemal žiadnu záruku.",0
+924,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+925,"Produkt sa pokazil po pár dňoch používania.",0
+926,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+927,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+928,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+929,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+930,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+931,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+932,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+933,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+934,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+935,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+936,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+937,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+938,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+939,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+940,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+941,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+942,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+943,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+944,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+945,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+946,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+947,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+948,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+949,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+950,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+951,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+952,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+953,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+954,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+955,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+956,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+957,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+958,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+959,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+960,"Produkt je výnimočne dobrý v svojej kategórii, perfektne splnil moje očakávania.",1
+961,"Nespokojný s výkonom, produkt bol neefektívny.",0
+962,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+963,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+964,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+965,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+966,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+967,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+968,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+969,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+970,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+971,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+972,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+973,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+974,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+975,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+976,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+977,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+978,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+979,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+980,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+981,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+982,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+983,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+984,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+985,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+986,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+987,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+988,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+989,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+990,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+991,"Produkt bol poškodený a nemal žiadnu záruku.",0
+992,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+993,"Produkt sa pokazil po pár dňoch používania.",0
+994,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+995,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+996,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+997,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+998,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+999,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+1000,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+1001,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+1002,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+1003,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+1004,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+1005,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+1006,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+1007,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+1008,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+1009,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+1010,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+1011,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+1012,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+1013,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+1014,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+1015,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+1016,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+1017,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+1018,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+1019,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+1020,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+1021,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+1022,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+1023,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+1024,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+1025,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+1026,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+1027,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+1028,"Produkt je výnimočne dobrý v svojej kategórii, perfektne splnil moje očakávania.",1
+1029,"Nespokojný s výkonom, produkt bol neefektívny.",0
+1030,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+1031,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+1032,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+1033,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+1034,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+1035,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+1036,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+1037,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+1038,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+1039,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+1040,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+1041,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+1042,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+1043,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+1044,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+1045,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+1046,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+1047,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+1048,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+1049,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+1050,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+1051,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+1052,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+1053,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+1054,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+1055,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+1056,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+1057,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+1058,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+1059,"Produkt bol poškodený a nemal žiadnu záruku.",0
+1060,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+1061,"Produkt sa pokazil po pár dňoch používania.",0
+1062,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+1063,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+1064,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+1065,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+1066,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+1067,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+1068,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+1069,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+1070,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+1071,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+1072,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+1073,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+1074,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+1075,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+1076,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+1077,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+1078,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+1079,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+1080,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+1081,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+1082,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+1083,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+1084,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+1085,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+1086,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+1087,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+1088,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+1089,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+1090,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+1091,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+1092,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+1093,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+1094,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+1095,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+1096,"Produkt je výnimočne dobrý v svojej kategórii, perfektne splnil moje očakávania.",1
+1097,"Nespokojný s výkonom, produkt bol neefektívny.",0
+1098,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+1099,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+1100,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+1101,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+1102,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+1103,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+1104,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+1105,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+1106,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+1107,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+1108,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+1109,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+1110,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+1111,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+1112,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+1113,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+1114,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+1115,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+1116,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+1117,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+1118,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+1119,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+1120,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+1121,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+1122,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+1123,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+1124,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+1125,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+1126,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+1127,"Produkt bol poškodený a nemal žiadnu záruku.",0
+1128,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+1129,"Produkt sa pokazil po pár dňoch používania.",0
+1130,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+1131,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+1132,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+1133,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+1134,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+1135,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+1136,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+1137,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+1138,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+1139,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+1140,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+1141,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+1142,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+1143,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+1144,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+1145,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+1146,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+1147,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+1148,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+1149,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+1150,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+1151,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+1152,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+1153,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+1154,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+1155,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+1156,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+1157,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+1158,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
+1159,"Nezvládol základné funkcie, musel som ho vrátiť.",0
+1160,"Skvelý produkt, ktorý stojí za investíciu, odolný a spoľahlivý.",1
+1161,"Tento produkt neposkytol sľubovanú kvalitu, celkové sklamanie.",0
+1162,"Je úžasné, ako tento produkt zlepšil môj život, vrelo odporúčam.",1
+1163,"Všetko na tomto produkte bolo podpriemerné, vrátil som ho.",0
+1164,"Produkt je výnimočne dobrý v svojej kategórii, perfektne splnil moje očakávania.",1
+1165,"Nespokojný s výkonom, produkt bol neefektívny.",0
+1166,"Tento produkt je skutočnou zmenou hry, spoľahlivý a užitočný.",1
+1167,"Produkt nepracoval správne a spôsobil mi veľa problémov.",0
+1168,"Perfektné pre moje potreby, produkt je veľmi spoľahlivý.",1
+1169,"Skúsenosť bola frustrujúca, produkt mal chyby už pri prvej inštalácii.",0
+1170,"Produkt je odolný voči každodennému používaniu a má dlhú životnosť.",1
+1171,"Veľmi nespokojný s kvalitou, produkt nesplnil sľuby.",0
+1172,"Produkt je vysoko kvalitný a odporúčam ho kvôli jeho spoľahlivosti a výkonu.",1
+1173,"Produkt bol absolútne bezcenný, veľká strata peňazí.",0
+1174,"Je to presne to, čo som potreboval, produkt je spoľahlivý a efektívny.",1
+1175,"Produkt je nekompletný a chýbajú kľúčové komponenty.",0
+1176,"Vynikajúca investícia, produkt spoľahlivo funguje a je odolný.",1
+1177,"Tento produkt je veľké sklamanie, vôbec neodporúčam.",0
+1178,"Spoľahlivosť tohto produktu je neoceniteľná, výborne funguje.",1
+1179,"Produkt prišiel s chýbajúcimi časťami, bol som veľmi sklamaný.",0
+1180,"Odporúčam tento produkt, je to skvelá investícia pre každého.",1
+1181,"Vrátil som tento produkt kvôli mnohým technickým problémom.",0
+1182,"Produkt splnil všetky moje požiadavky a očakávania, odporúčam.",1
+1183,"Veľká strata času a peňazí, produkt bol úplne zbytočný.",0
+1184,"Skvelý produkt, ktorý je spoľahlivý a uľahčuje moju každodennú rutinu.",1
+1185,"Produkt bol veľmi sklamaním, nesplnil žiadne z jeho sľubovaných funkcií.",0
+1186,"Veľmi spokojný, produkt je trvácny a spoľahlivý.",1
+1187,"Produkt je nedostatočný a neodporúčam jeho nákup.",0
+1188,"Produkt je úžasný, skvele splnil všetky moje potreby.",1
+1189,"Produkt mal vážne chyby a mal zlú kvalitu.",0
+1190,"Produkt je dokonalý pre moje potreby, má vysokú trvanlivosť a je spoľahlivý.",1
+1191,"Produkt nesplnil moje očakávania, bol som sklamaný.",0
+1192,"Výborná cena za takú vysokú kvalitu, produkt je odporúčaný.",1
+1193,"Produkt bol hrozný, vrátil som ho bez ďalšieho používania.",0
+1194,"Produkt ponúka vynikajúcu hodnotu, je efektívny a spoľahlivý.",1
+1195,"Produkt bol poškodený a nemal žiadnu záruku.",0
+1196,"Spoľahlivý produkt s vysokým výkonom, som maximálne spokojný.",1
+1197,"Produkt sa pokazil po pár dňoch používania.",0
+1198,"Skvelá kvalita a dlhá životnosť, tento produkt je skutočným prínosom.",1
+1199,"Produkt nebol ako očakávaný, mal závažné chyby.",0
+1200,"Produkt je presne to, čo som hľadal, výborný a spoľahlivý.",1
+1201,"Produkt bol neúspešný a mal zlú zákaznícku podporu.",0
+1202,"Produkt je vynikajúci, s vysokou účinnosťou a trvanlivosťou.",1
+1203,"Produkt bol veľmi zlý, neodpovedal popisu.",0
+1204,"Spoľahlivý produkt, ktorý stále funguje bez problémov.",1
+1205,"Veľmi zlá kvalita, produkt mal poškodené súčasti.",0
+1206,"Produkt je odolný a efektívny, veľmi spokojný s nákupom.",1
+1207,"Produkt prišiel s poškodeným obalom a zlou zákazníckou podporou.",0
+1208,"Tento produkt je výnimočný, splnil všetky moje očakávania a viac.",1
+1209,"Produkt prišiel nesprávne zmontovaný, vrátil som ho.",0
+1210,"Veľmi odporúčam tento produkt pre jeho výkon a spoľahlivosť.",1
+1211,"Produkt bol úplne zlyhanie, spôsobil len problémy.",0
+1212,"Perfektný produkt, ktorý funguje presne tak, ako je popísaný.",1
+1213,"Produkt mal veľa technických problémov, nebol použiteľný.",0
+1214,"Spoľahlivosť tohto produktu je úžasná, funguje dokonale každý deň.",1
+1215,"Produkt nebol funkčný pri doručení, veľké sklamanie.",0
+1216,"Tento produkt je neoceniteľný, veľmi odporúčam kvôli jeho spoľahlivosti.",1
+1217,"Bol to najhorší produkt, aký som kedy kúpil, nič nefungovalo správne.",0
+1218,"Produkt je trvácny a spoľahlivý, spokojnosť na každý deň.",1
+1219,"Výrobok prišiel poškodený a zákaznícka podpora bola neúčinná.",0
+1220,"Perfektný produkt s dlhou životnosťou, ktorý neustále presahuje moje očakávania.",1
+1221,"Hneď po rozbalení sa objavili problémy, vrátil som ho.",0
+1222,"Produkt je dokonale navrhnutý pre moje potreby, veľmi spokojný.",1
+1223,"Nesprávne popísaný a nevyhovujúci produkt, musel som ho vrátiť.",0
+1224,"Funguje presne ako je popísané, veľmi efektívny a užitočný.",1
+1225,"Produkt mal výrobnú chybu, ktorá znemožnila jeho použitie.",0
+1226,"Tento produkt je spoľahlivý a ponúka konzistentný výkon každý deň.",1
