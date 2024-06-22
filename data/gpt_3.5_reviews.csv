@@ -1,0 +1,713 @@
+review_text,sentiment
+"Skvelý produkt, veľmi spokojný s nákupom.",1
+"Nepáči sa mi kvalita, neodporúčam.",0
+"Rýchle doručenie a všetko v poriadku.",1
+"Neskutočne zlá komunikácia so zákazníkmi.",0
+"Perfektný výkon za dobrú cenu.",1
+"Skľučujúce sklamanie, nedoporučujem.",0
+"Krásny dizajn a praktický využitie.",1
+"Chybný výrobok, veľmi sklamaný.",0
+"Jednoduchá inštalácia a výborná funkčnosť.",1
+"Zlá kvalita materiálov, nedoporučujem.",0
+"Doporučujem každému, veľmi spokojný.",1
+"Chybná veľkosť, neodpovedá popisu produktu.",0
+"Výborne spracované a efektívne riešenie.",1
+"Slabé výkony a problémy s používaním.",0
+"Úžasné prevedenie, maximálne spokojný.",1
+"Zlá zákaznícka podpora, neodporúčam.",0
+"Skvelá investícia do kvalitnej techniky.",1
+"Nevhodný výber, pomalé a zastaralé.",0
+"Praktický a spoľahlivý pomocník.",1
+"Veľmi sklamaný zo zlej kvality produktu.",0
+"Moderný dizajn a vysoký výkon.",1
+"Problémy s fungovaním, veľké sklamanie.",0
+"Perfektné riešenie, nemám žiadne výhrady.",1
+"Chybná farba a nezmyselné rozhranie.",0
+"Presne taký produkt, aký som potreboval.",1
+"Slabá odolnosť a veľké sklamanie.",0
+"Rýchle a efektívne riešenie problémov.",1
+"Nenapĺňa očakávania, zbytočná investícia.",0
+"Fantastická kvalita za rozumnú cenu.",1
+"Zlé fungovanie a veľké sklamanie.",0
+"Pohodlné a praktické využitie produktu.",1
+"Horší produkt, než som očakával.",0
+"Vynikajúca funkčnosť a kvalita spracovania.",1
+"Veľmi sklamaný zo zlého servisu.",0
+"Strieľa a dobre sa drží, top produkt.",1
+"Slabú kvalitu neodporúčam, zbytočný výdavok.",0
+"Skvelé služby a rýchla reakcia.",1
+"Starý a zastaralý dizajn, sklamanie.",0
+"Dokonale mi sadol a úplne spĺňa očakávania.",1
+"Nepohodlné používanie a zlé fungovanie.",0
+"Super produkt za super cenu, maximálna spokojnosť.",1
+"Nevhodná veľkosť, neodpovedá štandardom.",0
+"Vďaka tomuto produktu mám život jednoduchší.",1
+"Rozbitý a zničený produkt, sklamanie.",0
+"Skvelý výkon a dlhá životnosť.",1
+"Slabé výkony a zlé spracovanie.",0
+"Vynikajúci produkt, splnil všetky očakávania.",1
+"Nepraktický a zbytočný nákup.",0
+"Rýchla a jednoduchá inštalácia, maximálna spokojnosť.",1
+"Zlá kvalita materiálov a problémy s funkčnosťou.",0
+"Perfektné riešenie pre každodenné používanie.",1
+"Neprehliadnuteľné chyby a sklamanie z nekvality.",0
+"Úžasný dizajn a bezchybný výkon.",1
+"Veľmi sklamaný zo zlého stavu produktu.",0
+"Jednoduché ovládanie a efektívne využitie.",1
+"Pomocník na každý deň, maximálna spokojnosť.",1
+"Sklamanie zo zlého dodania a poškodenia.",0
+"Skvelé funkcie a vynikajúca kvalita spracovania.",1
+"Nesplnil očakávania, veľký sklamanie.",0
+"Rýchla a spoľahlivá podpora zákazníkov.",1
+"Starý a nefunkčný produkt, neodporúčam.",0
+"Dokonalý pomocník pri každodennom používaní.",1
+"Zlé fungovanie a veľké problémy s používaním.",0
+"Perfektné riešenie a moderný dizajn.",1
+"Nepohodlné a nepraktické používanie.",0
+"Vysoký výkon za prijateľnú cenu, spokojnosť.",1
+"Zlá kvalita materiálov a sklamanie z podvádzania.",0
+"Skvelé riešenie pre každodenné problémy.",1
+"Chybný produkt, očiakvanie neboli splnené.",0
+"Jednoduché a pohodlné používanie, maximálna spokojnosť.",1
+"Zlé služby a nereagujúca zákaznícka podpora.",0
+"Dokonalý zážitok s výrobkom, veľmi spokojný.",1
+"Slabý výkon a zastaralý dizajn.",0
+"Jednoducho geniálny produkt, maximálna spokojnosť.",1
+"Nedoporučujem kvôli zlej kvalite a problémom.",0
+"Vynikajúce prevedenie a skvelé funkcie.",1
+"Slabé fungovanie a veľké sklamanie.",0
+"Perfektné riešenie pre každodenné používanie.",1
+"Nevhodná veľkosť a nekvalitné materiály.",0
+"Úžasné funkcie a moderný dizajn.",1
+"Zlá kvalita a sklamanie zo zlého stavu produktu.",0
+"Výborný výkon za výbornú cenu, maximálna spokojnosť.",1
+"Nepohodlný produkt, neodporúčam.",0
+"Rýchla a efektívna reakcia na otázky.",1
+"Zastaralý dizajn a veľký sklamanie.",0
+"Skvelé služby a pozitívne skúsenosti.",1
+"Nepraktický a nekvalitný produkt.",0
+"Dokonalé riešenie a jednoduché používanie.",1
+"Zlé fungovanie a problémy s kvalitou.",0
+"Perfektná kvalita a vynikajúce funkcie.",1
+"Nesplnil očakávanie, veľké sklamanie.",0
+"Rýchla a individuálna podpora zákazníkov.",1
+"Starý a nefunkčný dizajn, neodporúčam.",0
+"Dokonalý pomocník pri každom kroku.",1
+"Zlé fungovanie a veľké problémy s používaním.",0
+"Perfektné riešenie a moderný dizajn.",1
+"Nepohodlné a nepraktické používanie.",0
+"Vysoký výkon za prijateľnú cenu, spokojnosť.",1
+"Zlá kvalita materiálov a sklamanie z podvádzania.",0
+"Skvelé riešenie pre každodenné problémy.",1
+"Chybný produkt, očiakvanie neboli splnené.",0
+"Jednoduché a pohodlné používanie, maximálna spokojnosť.",1
+"Zlé služby a nereagujúca zákaznícka podpora.",0
+"Dokonalý zážitok s výrobkom, veľmi spokojný.",1
+"Slabý výkon a zastaralý dizajn.",0
+"Jednoducho geniálny produkt, maximálna spokojnosť.",1
+"Nedoporučujem kvôli zlej kvalite a problémom.",0
+"Vynikajúce prevedenie a skvelé funkcie.",1
+"Slabé fungovanie a veľké sklamanie.",0
+"Perfektné riešenie pre každodenné používanie.",1
+"Nevhodná veľkosť a nekvalitné materiály.",0
+"Úžasné funkcie a moderný dizajn.",1
+"Zlá kvalita a sklamanie zo zlého stavu produktu.",0
+"Výborný výkon za výbornú cenu, maximálna spokojnosť.",1
+"Nepohodlný produkt, neodporúčam.",0
+"Rýchla a efektívna reakcia na otázky.",1
+"Zastaralý dizajn a veľký sklamanie.",0
+"Skvelé služby a pozitívne skúsenosti.",1
+"Nepraktický a nekvalitný produkt.",0
+"Dokonalé riešenie a jednoduché používanie.",1
+"Zlé fungovanie a problémy s kvalitou.",0
+"Perfektná kvalita a vynikajúce funkcie.",1
+"Nesplnil očakávanie, veľké sklamanie.",0
+"Rýchla a individuálna podpora zákazníkov.",1
+"Starý a nefunkčný dizajn, neodporúčam.",0
+"Dokonalý pomocník pri každom kroku.",1
+"Zlé fungovanie a veľké problémy s používaním.",0
+"Perfektné riešenie a moderný dizajn.",1
+"Nepohodlné a nepraktické používanie.",0
+"Vysoký výkon za prijateľnú cenu, spokojnosť.",1
+"Zlá kvalita materiálov a sklamanie z podvádzania.",0
+"Skvelé riešenie pre každodenné problémy.",1
+"Chybný produkt, očiakvanie neboli splnené.",0
+"Jednoduché a pohodlné používanie, maximálna spokojnosť.",1
+"Zlé služby a nereagujúca zákaznícka podpora.",0
+"Dokonalý zážitok s výrobkom, veľmi spokojný.",1
+"Slabý výkon a zastaralý dizajn.",0
+"Jednoducho geniálny produkt, maximálna spokojnosť.",1
+"Nedoporučujem kvôli zlej kvalite a problémom.",0
+"Vynikajúce prevedenie a skvelé funkcie.",1
+"Slabé fungovanie a veľké sklamanie.",0
+"Perfektné riešenie pre každodenné používanie.",1
+"Nevhodná veľkosť a nekvalitné materiály.",0
+"Úžasné funkcie a moderný dizajn.",1
+"Zlá kvalita a sklamanie zo zlého stavu produktu.",0
+"Výborný výkon za výbornú cenu, maximálna spokojnosť.",1
+"Nepohodlný produkt, neodporúčam.",0
+"Rýchla a efektívna reakcia na otázky.",1
+"Zastaralý dizajn a veľký sklamanie.",0
+"Skvelé služby a pozitívne skúsenosti.",1
+"Nepraktický a nekvalitný produkt.",0
+"Dokonalé riešenie a jednoduché používanie.",1
+"Zlé fungovanie a problémy s kvalitou.",0
+"Perfektná kvalita a vynikajúce funkcie.",1
+"Nesplnil očakávakie, veľké sklamanie.",0
+"Rýchla a individuálna podpora zákazníkov.",1
+"Starý a nefunkčný dizajn, neodporúčam.",0
+"Dokonalý pomocník pri každom kroku.",1
+"Zlé fungovanie a veľké problémy s používaním.",0
+"Perfektné riešenie a moderný dizajn.",1
+"Nepohodlné a nepraktické používanie.",0
+"Vysoký výkon za prijateľnú cenu, spokojnosť.",1
+"Zlá kvalita materiálov a sklamanie z podvádzania.",0
+"Skvelé riešenie pre každodenné problémy.",1
+"Chybný produkt, očiakvanie neboli splnené.",0
+"Jednoduché a pohodlné používanie, maximálna spokojnosť.",1
+"Zlé služby a nereagujúca zákaznícka podpora.",0
+"Dokonalý zážitok s výrobkom, veľmi spokojný.",1
+"Slabý výkon a zastaralý dizajn.",0
+"Jednoducho geniálny produkt, maximálna spokojnosť.",1
+"Nedoporučujem kvôli zlej kvalite a problémom.",0
+"Vynikajúce prevedenie a skvelé funkcie.",1
+"Slabé fungovanie a veľké sklamanie.",0
+"Perfektné riešenie pre každodenné používanie.",1
+"Nevhodná veľkosť a nekvalitné materiály.",0
+"Úžasné funkcie a moderný dizajn.",1
+"Zlá kvalita a sklamanie zo zlého stavu produktu.",0
+"Výborný výkon za výbornú cenu, maximálna spokojnosť.",1
+"Nepohodlný produkt, neodporúčam.",0
+"Veľmi spokojný s kvalitou výrobku.",1
+"Mám veľké sklamanie z nízkej trvanlivosti.",0
+"Super produkt, veľmi účinný.",1
+"Slabá kvalita, rýchlo sa rozbil.",0
+"Bol to najlepší nákup vôbec!",1
+"Čakal som viac, veľké sklamanie.",0
+"Skvelý výkon, vrelo odporúčam.",1
+"Zlá kvalita, nespĺňa očakávania.",0
+"Veľmi efektívny výrobok.",1
+"Nemôžem odporučiť, nezodpovedný predajca.",0
+"Presne to, čo som potreboval.",1
+"Veľmi neuspokojivé výsledky.",0
+"Nadšený z funkčnosti produktu.",1
+"Nepraktický dizajn a nekvalitné materiály.",0
+"Dostatočne dlhá životnosť, veľmi spokojný.",1
+"Zlá nákupná skúsenosť, určite nekúpim znova.",0
+"Cenovo dostupné a kvalitné. Odporúčam.",1
+"Nestál za to peniaze, neodporúčam.",0
+"Jednoducho úžasný produkt!",1
+"Zlé spracovanie a nízka kvalita.",0
+"100% spokojnosť s výrobkom.",1
+"Žiadne podiel, neodporúčam.",0
+"Dokonalý výrobok, presne to čo som potreboval.",1
+"Porucha hneď po pár použitiach.",0
+"Prekvapivo dobrý výrobok, veľká radosť z nákupu.",1
+"Chabá funkčnosť a veľké sklamanie.",0
+"Dokonalé pre moje potreby, veľmi spokojný.",1
+"Zlá kvalita a nezodpovedný servis.",0
+"Maximálna spokojnosť, produkt odporúčam.",1
+"Naprostý nezmysel, sklamanie z produktu.",0
+"Spokojný s výrobkom, dodanie však oneskorené.",1
+"Zlá kvalita a hrozne dlhá dodacia lehota.",0
+"Tento produkt je úžasný!",1
+"Tento produkt neuspokojil moje očakávania",0
+"Jednoducho najlepší produkt na trhu",1
+"Tento produkt ma veľmi sklamal",0
+"Kvalita tohto produktu je excelentná",1
+"Nevhodný produkt, nedoporučujem",0
+"Skvelý výkon a funkcie, určite odporúčam",1
+"Zlá investícia, produkt neplní sľúbené",0
+"Prekvapujúco dobrý produkt, odporúčam vyskúšať",1
+"Veľká sklamanie, produkt nefungoval ako mal",0
+"Super produkt s bezchybným výkonom",1
+"Ľutujem, že som si tento produkt kúpil",0
+"Inovatívny dizajn a výborná kvalita",1
+"Oveľa horší než som čakal, sklamanie",0
+"Funkčný a spoľahlivý produkt, som veľmi spokojný",1
+"Škoda peňazí, tento produkt stojí za nič",0
+"Skvelá cena s vysokou kvalitou výkonu",1
+"Nedoporučujem tento produkt, veľmi sklamaný",0
+"Nadštandardný produkt s množstvom funkcií",1
+"Zlá voľba, produkt sa mi vôbec nepáči",0
+"Prekvapivo dobrý produkt za túto cenu",1
+"Produkt sa pokazil hneď po krátkom použití",0
+"Ideálny produkt pre každodenné použitie",1
+"Celkom sklamaný z výkonu tohto produktu",0
+"Perfektný produkt v každom ohľade",1
+"Nepoužiteľný produkt, neodporúčam",0
+"Vynikajúce výkony a skvelé funkcie",1
+"Desím chybný produkt, neodporúčam",0
+"Výnimočná kvalita a spoľahlivosť",1
+"Nevhodný produkt, čisté sklamanie",0
+"Jednoducho fantastický produkt, určite odporúčam",1
+"Zlá investícia do tohto produktu, veľké sklamanie",0
+"Bezchybný výkon a vysoká funkcionalita",1
+"Tento produkt mi nesedel, neodpovieda mojim potrebám",0
+"Perfektná voľba za túto cenu, vrelo odporúčam",1
+"Produkt nedrží sľúbenú kvalitu, veľmi sklamaný",0
+"Skvelý dizajn a výnimočná kvalita",1
+"Očakával som viac, produkt nevyhovuje",0
+"Funkčný a spoľahlivý produkt, naozaj odporúčam",1
+"Úplne zlý produkt, veľké sklamanie",0
+"Vynikajúca kvalita a dlhá životnosť, maximálna spokojnosť",1
+"Nedoporučujem tento produkt, veľké sklamanie",0
+"Fantastický výkon a perfektný dizajn",1
+"Kvalita tohto produktu je podpriemerná, neodporúčam",0
+"Super produkt za vynikajúcu cenu, určite odporúčam",1
+"Nevhodný produkt, veľké sklamanie",0
+"Skvelá kvalita a moderný dizajn, maximálna spokojnosť",1
+"Nekvalitný produkt, neodporúčam",0
+"Vysoko kvalitný produkt so skvelými funkciami, maximálna spokojnosť",1
+"Sklamanie, tento produkt neodporúčam",0
+"Perfektný výkon a spoľahlivosť, tento produkt ma nesklamal",1
+"Zlá kvalita a slabá výkonnosť, veľké sklamanie",0
+"Skvelá cena a výborná kvalita, veľmi spokojný",1
+"Nedoporučujem tento produkt, zlá voľba",0
+"Fantastický produkt s množstvom funkcií, maximálna spokojnosť",1
+"Sklamal ma výkon a kvalita tohto produktu, neodporúčam",0
+"Ideálny produkt pre všedné použitie, maximálna spokojnosť",1
+"Zlý produkt, sklamanie, neodporúčam",0
+"Perfektná kombinácia výkonu a kvality, veľmi spokojný",1
+"Nevhodný produkt, nevyhovujúca kvalita",0
+"Výnimočný produkt s excelentným výkonom, maximálna spokojnosť",1
+"Produkt neplní očakávania, veľké sklamanie",0
+"Super produkt za rozumnú cenu, odporúčam vyskúšať",1
+"Osobne som veľmi sklamaný z tohto produktu",0
+"Kvalitný produkt s dobrou cenou, maximálna spokojnosť",1
+"Zlá voľba produktu, veľké sklamanie",0
+"Skvelý produkt so všetkými potrebnými funkciami, maximálna spokojnosť",1
+"Neodporúčam tento produkt, veľké sklamanie",0
+"Fantastický výkon a moderný dizajn, maximálna spokojnosť",1
+"Produkt nevyhovuje očakávaniam, veľké sklamanie",0
+"Vysoko kvalitný produkt s optimálnym výkonom, maximálna spokojnosť",1
+"Nič moc produkt, veľmi sklamaný",0
+"Excelentný produkt za danú cenu, maximálna spokojnosť",1
+"Zlá investícia, tento produkt nie je hodnotný",0
+"Skvelý produkt so všetkými funkciemi, maximálna spokojnosť",1
+"Nevhodný nákup, produkt nevyhovuje, veľké sklamanie",0
+"Perfektná kvalita a spoľahlivosť, tento produkt odporúčam",1
+"Zlý výkon tohto produktu, veľké sklamanie",0
+"Skvelá cena za vynikajúcu kvalitu, maximálna spokojnosť",1
+"Naozaj neodporúčam tento produkt, veľké sklamanie",0
+"Fantastický produkt s excelentným dizajnom, maximálna spokojnosť",1
+"Produkt nie je hodnotný, neodporúčam, veľké sklamanie",0
+"Vysoko kvalitný produkt so silným výkonom, maximálna spokojnosť",1
+"Absolútne sklamal, tento produkt ma veľmi sklamaný",0
+"Kúpa tohto produktu bola veľká chyba, neodporúčam",0
+"Perfektný produkt s nadštandardnými funkciami, maximálna spokojnosť",1
+"Zlá investícia do tohto produktu, veľké sklamanie",0
+"Osobne nie som spokojný s týmto produktom",0
+"Vynikajúci výkon a moderný dizajn, maximálna spokojnosť",1
+"Produkt neplní očakávania, veľké sklamanie",0
+"Fantastický produkt za super cenu, maximálna spokojnosť",1
+"Kvalita tohto produktu je podpriemerná, neodporúčam",0
+"Super produkt so skvelými funkciami, maximálna spokojnosť",1
+"Sklamal ma výkon a kvalita tohto produktu, neodporúčam",0
+"Inovatívny produkt s vynikajúcim výkonom, maximálna spokojnosť",1
+"Produkt neodpovedal mojim očakávaniam, veľké sklamanie",0
+"Vynikajúci produkt s moderným dizajnom, maximálna spokojnosť",1
+"Produkt neuspokojil moje potreby, veľké sklamanie",0
+"Perfektný produkt za túto cenu, maximálna spokojnosť",1
+"Nedoporučujem tento produkt, neodpovedá potrebám",0
+"Fantastický výkon a moderný dizajn, maximálna spokojnosť",1
+"Produkt nedrží sľúbenú kvalitu, veľmi sklamaný",0
+"Skvelý produkt s nadštandardnými funkciami, maximálna spokojnosť",1
+"Neskvelé sklamanie z kvality tohto produktu, neodporúčam",0
+"Úžasný produkt za super cenu, maximálna spokojnosť",1
+"Kvalita tohto produktu je podpriemerná, neodporúčam",0
+"Vysoko kvalitný produkt so skvelými funkciami, maximálna spokojnosť",1
+"Produkt neplní očakávania, veľké sklamanie",0
+"Fantastický produkt za rozumnú cenu, maximálna spokojnosť",1
+"Osobne som veľmi sklamaný z tohto produktu",0
+"Nevhodný produkt za danú cenu, veľké sklamanie",0
+"Vynikajúci produkt s moderným dizajnom, maximálna spokojnosť",1
+"Produkt sa pokazil hneď po krátkom použití",0
+"Perfektný produkt s nadštandardnými funkciami, maximálna spokojnosť",1
+"Zlý produkt, veľké sklamanie, neodporúčam",0
+"Skvelá kvalita a moderný dizajn, maximálna spokojnosť",1
+"Nekvalitný produkt, nepáči sa mi",0
+"Vysoko kvalitný produkt so vynikajúcimi funkciami, maximálna spokojnosť",1
+"Sklamanie, tento produkt neodporúčam",0
+"Perfektný výkon a spoľahlivosť, tento produkt ma nesklamal",1
+"Zlá kvalita a slabá výkonnosť, veľké sklamanie",0
+"Skvelá cena a výborná kvalita, veľmi spokojný",1
+"Nedoporučujem tento produkt, zlá voľba",0
+"Fantastický produkt s množstvom funkcií, maximálna spokojnosť",1
+"Sklamal ma výkon a kvalita tohto produktu, neodporúčam",0
+"Ideálny produkt pre všedné použitie, maximálna spokojnosť",1
+"Zlý produkt, sklamanie, neodporúčam",0
+"Perfektná kombinácia výkonu a kvality, veľmi spokojný",1
+"Nevhodný produkt, nevyhovujúca kvalita",0
+"Výnimočný produkt s excelentným výkonom, maximálna spokojnosť",1
+"Produkt neplní očakávania, veľké sklamanie",0
+"Super produkt za vynikajúcu cenu, odporúčam vyskúšať",1
+"Osobne som veľmi sklamaný z tohto produktu",0
+"Kvalitný produkt s dobrou cenou, maximálna spokojnosť",1
+"Zlá voľba produktu, veľké sklamanie",0
+"Skvelý produkt so všetkými potrebnými funkciami, maximálna spokojnosť",1
+"Neodporúčam tento produkt, veľké sklamanie",0
+"Fantastický výkon a moderný dizajn, maximálna spokojnosť",1
+"Produkt nevyhovuje očakávaniam, veľké sklamanie",0
+"Vysoko kvalitný produkt s optimálnym výkonom, maximálna spokojnosť",1
+"Nič moc produkt, veľmi sklamaný",0
+"Excelentný produkt za danú cenu, maximálna spokojnosť",1
+"Zlá investícia, tento produkt nie je hodnotný",0
+"Skvelý produkt so všetkými funkciemi, maximálna spokojnosť",1
+"Nevhodný nákup, produkt nevyhovuje, veľké sklamanie",0
+"Perfektná kvalita a spoľahlivosť, tento produkt odporúčam",1
+"Zlý výkon tohto produktu, veľké sklamanie",0
+"Skvelá cena za vynikajúcu kvalitu, maximálna spokojnosť",1
+"Naozaj neodporúčam tento produkt, veľké sklamanie",0
+"Fantastický produkt s excelentným dizajnom, maximálna spokojnosť",1
+"Produkt nie je hodnotný, neodporúčam, veľké sklamanie",0
+"Vysoko kvalitný produkt so silným výkonom, maximálna spokojnosť",1
+"Absolútne sklamal, tento produkt ma veľmi sklamaný",0
+"Kúpa tohto produktu bola veľká chyba, neodporúčam",0
+"Perfektný produkt s nadštandardnými funkciami, maximálna spokojnosť",1
+"Zlá investícia do tohto produktu, veľké sklamanie",0
+"Osobne nie som spokojný s týmto produktom",0
+"Vynikajúci výkon a moderný dizajn, maximálna spokojnosť",1
+"Produkt neplní očakávania, veľké sklamanie",0
+"Fantastický produkt za super cenu, maximálna spokojnosť",1
+"Kvalita tohto produktu je podpriemerná, neodporúčam",0
+"Super produkt so skvelými funkciami, maximálna spokojnosť",1
+"Sklamal ma výkon a kvalita tohto produktu, neodporúčam",0
+"Inovatívny produkt s vynikajúcim výkonom, maximálna spokojnosť",1
+"Produkt neodpovedal mojim očakávaniam, veľké sklamanie",0
+"Vynikajúci produkt s moderným dizajnom, maximálna spokojnosť",1
+"Produkt neuspokojil moje potreby, veľké sklamanie",0
+"Perfektný produkt za túto cenu, maximálna spokojnosť",1
+"Nedoporučujem tento produkt, neodpovedá potrebám",0
+"Fantastický výkon a moderný dizajn, maximálna spokojnosť",1
+"Produkt nedrží sľúbenú kvalitu, veľmi sklamaný",0
+"Skvelý produkt s nadštandardnými funkciami, maximálna spokojnosť",1
+"Neskvelé sklamanie z kvality tohto produktu, neodporúčam",0
+"Top kvalita",1
+"Slabá výdrž",0
+"Rýchle dodanie",1
+"Zlý pomer cena/výkon",0
+"Skvelé funkcie",1
+"Nepohodlné používanie",0
+"Super produkt",1
+"Nekvalitné spracovanie",0
+"Ideálny pre každodenné použitie",1
+"Chýbajúce súčiastky",0
+"Presne podľa očakávania",1
+"Zlá kompatibilita",0
+"Lahká inštalácia",1
+"Ťažké ovládanie",0
+"Moderný dizajn",1
+"Chabá obrazová kvalita",0
+"Skvelý výkon",1
+"Hlučné chladenie",0
+"Odporúčam každému",1
+"Zastaralý softvér",0
+"Luxusný vzhľad",1
+"Nepresný snímač",0
+"Funkčný a spoľahlivý",1
+"Zlá podpora zákazníkov",0
+"Rýchla reakcia",1
+"Slabá batéria",0
+"Dizajn ako zozadu",1
+"Draho platené",0
+"Skvelá hodnota za peniaze",1
+"Nevhodný pre náročného užívateľa",0
+"Jednoduché nastavenie",1
+"Nepraktické rozmery",0
+"Úžasná kvalita zvuku",1
+"Pomalé prehrávanie",0
+"Radostný nákup",1
+"Zdlhavá inštalácia",0
+"Brilantné výsledky",1
+"Nastavenie náročné na pochopenie",0
+"Myšlienka geniálna",1
+"Zlá ergonómia",0
+"Dostupné cenovo",1
+"Zastaralý design",0
+"Funguje ako má",1
+"Nepraktické funkcie",0
+"Jednoducho najlepší",1
+"Nízka výdrž batérie",0
+"Exkluzívny vzhľad",1
+"Zlý výkon",0
+"Perfektné pre každodenné použitie",1
+"Nepremyslené ovládanie",0
+"Super rýchlosť",1
+"Chybný obal",0
+"Na zlepšenie",1
+"Zbytočné funkcie",0
+"Veľmi spokojný zákazník",1
+"Problémy s prehrávaním",0
+"Dlhá životnosť",1
+"Neestetický dizajn",0
+"Geniálny výkon",1
+"Chabý materiál",0
+"Lahká manipulácia",1
+"Nepresný farebný reproduktor",0
+"Dlhá životnosť batérie",1
+"Intuitívne ovládanie",1
+"Pomaly sa reaguje",0
+"Nenahraditeľný pomocník",1
+"Zbytočné veľké rozmery",0
+"Splnil očakávania",1
+"Zlá kvalita videa",0
+"Vynikajúci výkon",1
+"Málo pamäte",0
+"Efektívne využitie",1
+"Nespolahlivý",0
+"Dokonalý zvuk",1
+"Nečakane nízka kvalita",0
+"Vyhovuje potrebám",1
+"Náročné používanie",0
+"Fantastický produkt",1
+"Chýbajúce príslušenstvo",0
+"Ideálny pre každého",1
+"Zlé pripojenie",0
+"Spĺňa všetko",1
+"Pretrvávajúce problémy",0
+"Najlepší výkon",1
+"Slabá kvalita materiálu",0
+"Lahké nastavenie",1
+"Zničené poškodenie",0
+"Úžasné funkcie",1
+"Vysoká cena",0
+"Skvelá práca",1
+"Neúčinný výkon",0
+"Super pomer cena/výkon",1
+"Starý vzhľad",0
+"Lahká manipulácia",1
+"Náročné na údržbu",0
+"Ideálny pre hrateľnosť",1
+"Nepevný kryt",0
+"Spokojný zákazník",1
+"Zbytočne veľké rozmery",0
+"Dokonalý obraz",1
+"Nepriaznivý dizajn",0
+"Skvelá ergonómia",1
+"Problémy s pripojením",0
+"Top produkt",1
+"Skvelý výkon a kvalita. Odporúčam!",1
+"Nevhodná veľkosť a nízka kvalita. Ľutujem.",0
+"Pristupiteľná cena a spoľahlivý výrobok.",1
+"Slabá odolnosť a neprimeraná cena. Zklamal ma.",0
+"Pohodlné a štýlové. Som veľmi spokojný!",1
+"Nepohodlné a ťažkopádne. Nedoporučujem.",0
+"Výborne vyzerá a plne funkčný. 5 hviezdičiek!",1
+"Problémy s funkčnosťou a ľahká deformovateľnosť. Sklamalo.",0
+"Strieborný dizajn a skvelé funkcie. Veľká spokojnosť.",1
+"Zlá výdrž batérie a pomalý procesor. Sklamal ma.",0
+"Kvalitný materiál a precízne spracovanie. Dôrazne odporúčam!",1
+"Nepraktický dizajn a horší výkon ako očakávané. Sklamania.",0
+"Rýchle doručenie a bezproblémová komunikácia. Top!",1
+"Neprijateľné oneskorenie doručenia a poškodený produkt. Veľké sklamanie.",0
+"Dobrá hodnota za peniaze a pevná konštrukcia. Veľká spokojnosť.",1
+"Chabá kvalita a nespoľahlivý výkon. Frustrujúce.",0
+"Vynikajúci výber farieb a odolnosť vďaka kvalitným materiálom. Odporúčam!",1
+"Závady funkcií a nezrozumiteľné inštrukcie. Nespokojný.",0
+"Perfektná veľkosť a kompaktný dizajn. Skvelý produkt!",1
+"Príliš veľké rozmery a mizerná kvalita materiálu. Veľké sklamanie.",0
+"Priestranný a dobre organizovaný. Presne to, čo som potreboval!",1
+"Ťažkopádny a nepraktický. Veľmi negatívne skúsenosti.",0
+"Vysoká kvalita a bezchybný výkon. Veľká spokojnosť.",1
+"Horšia kvalita spracovania a vysoká cena. Neodporúčam.",0
+"Moderný dizajn a excelentné funkcie. Splnil očakávania!",1
+"Nepohodlné a nepevné. Veľké sklamanie.",0
+"Skvelá ponuka funkcií a atraktívny dizajn. Veľká spokojnosť s nákupom!",1
+"Pomalý a nepresný. Určite neodporúčam.",0
+"Prevedenie na vysokej úrovni a jednoduché ovládanie. Veľmi spokojný!",1
+"Slabý materiál a ťažkopádny dizajn. Značne sklamaný.",0
+"Vynikajúca kvalita a precízne spracovanie. Odporúčam!",1
+"Nevhodné rozmery a nekvalitný materiál. Zklamalo.",0
+"Výborná cena a spoľahlivý výkon. Veľká spokojnosť.",1
+"Drahé a menej funkčné ako očakávané. Priemerný výrobok.",0
+"Moderný a praktický. Veľmi spokojný s výberom!",1
+"Staromódny dizajn a problémy s funkčnosťou. Sklamalo.",0
+"Skvelý výkon a kvalitné spracovanie. Bez výhrad!",1
+"Nevhodný materiál a zlé spracovanie. Veľké sklamanie.",0
+"Dokonalý vzhľad a spoľahlivý výkon. Odporúčam!",1
+"Chabý výkon a nestabilná prevádzka. Sklamal.",0
+"Dobrá cena a praktické využitie. Veľmi spokojný.",1
+"Zlé spracovanie a veľké sklamanie z funkčnosti. Nedoporučujem.",0
+"Moderný dizajn a vynikajúce funkcie. Veľká spokojnosť s produktom!",1
+"Nevhodné rozmery a obmedzená funkcionalita. Zklamalo.",0
+"Skvelý výkon a elegantný dizajn. 5 hviezdičiek!",1
+"Pomalý a nestabilný. Veľké sklamanie z nákupu.",0
+"Vysoká odolnosť a kvalitné spracovanie. Odporúčam!",1
+"Horšia kvalita a nedostatočné funkcie. Priemerný produkt.",0
+"Jednoduché ovládanie a atraktívny dizajn. Veľká spokojnosť.",1
+"Nepevný materiál a chabá odolnosť. Veľké sklamanie.",0
+"Perfektný výber farby a kvalitný materiál. Bez výhrad!",1
+"Slabý výkon a nestabilný chod. Sklamal ma.",0
+"Skvelá hodnota za peniaze a spoľahlivý výkon. Veľká spokojnosť.",1
+"Nepraktický dizajn a menej funkcií ako očakávané. Nedoporučujem.",0
+"Pestrá funkcionalita a moderný dizajn. Splnil očakávania!",1
+"Nestabilný a pomalý. Veľké sklamanie z nákupu.",0
+"Kvalitný materiál a dlhá životnosť. Odporúčam!",1
+"Nestabilný výkon a nedostatočná odolnosť. Veľké sklamanie.",0
+"Dobre ovládateľný a praktický využitie. Veľmi spokojný.",1
+"Nepohodlné a nekvalitné. Veľké sklamanie.",0
+"Skvelý dizajn a vynikajúce funkcie. Veľká spokojnosť s produktom!",1
+"Nepriaznivá veľkosť a nestabilný chod. Sklamalo.",0
+"Vynikajúce spracovanie a spoľahlivý výkon. Odporúčam!",1
+"Nepresné a pomalé. Veľké sklamanie z nákupu.",0
+"Moderný dizajn a množstvo funkcií. Veľká spokojnosť.",1
+"Zlá kvalita materiálu a nespokojný výkon. Nedoporučujem.",0
+"Kvalitné spracovanie a dlhá životnosť batérie. Odporúčam!",1
+"Náročné ovládanie a slabší výkon ako očakávané. Sklamalo.",0
+"Výborná cena a precízne spracovanie. Veľká spokojnosť.",1
+"Drahý produkt a nedostatočný výkon. Priemerný dojem.",0
+"Praktický a moderný dizajn. Veľká spokojnosť s výberom!",1
+"Staromódny a nepraktický. Veľké sklamanie.",0
+"Výborná kvalita a spoľahlivý výkon. Odporúčam!",1
+"Slabý dizajn a menej funkčný ako očakávané. Nedoporučujem.",0
+"Skvelé spracovanie a vysoký výkon. Veľká spokojnosť.",1
+"Nízka kvalita materiálu a nedostatočná funkčnosť. Veľké sklamanie.",0
+"Dobrá hodnota za peniaze a praktické využitie. Veľmi spokojný.",1
+"Chabé spracovanie a ťažkopádny dizajn. Veľké sklamanie.",0
+"Moderný dizajn a široké funkcie. Veľká spokojnosť s produktom!",1
+"Nepraktický dizajn a chýbajúce funkcie. Zklamalo.",0
+"Výborný výkon a spoľahlivá prevádzka. Odporúčam!",1
+"Zlý výkon a nestabilný chod. Sklamal ma.",0
+"Skvelý výber farieb a vysoká kvalita. Veľká spokojnosť.",1
+"Nepohodlný materiál a slabá odolnosť. Nedoporučujem.",0
+"Výnimočná kvalita spracovania a precízna funkcionalita. Odporúčam!",1
+"Chabý dizajn a horší výkon ako očakávané. Veľké sklamanie.",0
+"Pohodlný a moderný. Veľmi spokojný s nákupom!",1
+"Nepohodlné a nepevné. Veľké sklamanie.",0
+"Úžasný výrobok, veľmi spokojný s kvalitou.",1
+"Nemohol som nájsť žiadnu chybu, veľmi odporúčam.",0
+"Vonia nádherne, užívam si každú chvíľu s týmto produktom.",1
+"Bohužiaľ, dorazil rozbitý a nebol som šťastný s výsledkom.",0
+"Presne to, čo som potreboval, veľmi praktický výrobok.",1
+"Zlá kvalita, rýchlo sa pokazil a sklamanie.",0
+"Rýchle dodanie a výborná komunikácia so zákazníkom, veľký plus.",1
+"Neodporúčam, nedostatočná trvanlivosť produktu.",0
+"Krásny dizajn a skvelá funkcionalita, maximálna spokojnosť.",1
+"Príliš drahé vzhľadom na kvalitu, sklamanie.",0
+"Silná a spoľahlivá konštrukcia, veľmi dobre vyrobené.",1
+"Čakal som viac, produkt nezodpovedá popisu, sklamanie.",0
+"Dokonalý produkt, splnil moje očakávania na stopercent.",1
+"Po krátkej dobe používania sa produkt pokazil, veľké sklamanie.",0
+"Skvelý zážitok pri používaní, odporúčam všetkým známym.",1
+"Nedostatočné množstvo príloh, nebol som spokojný.",0
+"Super rýchla dodacia lehota a bezproblémové vybavenie objednávky.",1
+"Slabá kvalita materiálov, rýchlo sa opotrebovávajú.",0
+"Fantastický výrobok, skvelá cena za to, čo ponúka.",1
+"Nepáčilo sa mi to, nechať som si inú značku.",0
+"Perfektný tovar, skvelá funkcionalita a elegantný dizajn.",1
+"Spôsobilo mi to alergickú reakciu, nedoporučujem.",0
+"Prekvapený kvalitou a výdržou, veľmi spokojný.",1
+"Zlá komunikácia so zákazníkom a oneskorené doručenie, veľká nepríjemnosť.",0
+"Výborný výrobok, užitočný a praktický pre každodenné použitie.",1
+"Ľahko sa rozpadol a nebol dostatočne odolný, veľké sklamanie.",0
+"Strata peňazí, neodpovedá kvalite, neodporúčam.",0
+"Skvelé prekvapenie, lepší než som čakal, maximálna spokojnosť.",1
+"Problémy s funkčnosťou a nekvalitné spracovanie, veľký sklamanie.",0
+"Výnimočná kvalita, maximálna spokojnosť s výrobkom.",1
+"Rozbité balenie a chýbajúce príslušenstvo, veľké sklamanie.",0
+"Dokonalý pomer ceny a kvality, veľmi spokojný zákazník.",1
+"Výrobok prišiel neskoro a v zlom stave, veľké sklamanie.",0
+"Perfektný výrobok, žiadne problémy, len radosť z používania.",1
+"Nevhodný pre moje potreby, nič iné som nečakal.",0
+"Absolútne skvelý výrobok, odporúčam všetkým, veľmi spokojný zákazník.",1
+"Výborná kvalita, veľmi spokojný.",1
+"Nechutný, neodporúčam.",0
+"Rýchle doručenie, úžasný produkt!",1
+"Slabá kvalita, sklamanie.",0
+"Super cena za skvelý výkon!",1
+"Škoda peňazí, nič moc.",0
+"Krásny dizajn, presne ako som čakal.",1
+"Nestálo to za to, nedoporučujem.",0
+"Skvelý zážitok, veľmi doporučujem.",1
+"Zlá kvalita materiálu, veľké sklamanie.",0
+"Fantastický výrobok, spľňa všetky očakávania.",1
+"Úplne zbytočný výrobok, neodporúčam.",0
+"Skvelá cena a kvalita, veľká spokojnosť.",1
+"Vrátil by som to späť, sklamaný.",0
+"Odporúčam všetkým, super výber.",1
+"Neodporúčam, veľké sklamanie.",0
+"Pôsobí drahšie, ako stojí. Perfektný nákup.",1
+"Slabá kvalita, neodporúčam.",0
+"Krásne balenie, skvelý darček!",1
+"Nič moc, nesplnil moje očakávania.",0
+"Tento produkt je naozaj skvelý, nadšený.",1
+"Výrobok nevyhovuje kvalite, sklamanie.",0
+"Absolútna spokojnosť, veľmi odporúčam!",1
+"Zlá cena za to, čo dostanete.",0
+"Perfektný výrobok, veľká radosť.",1
+"Nevhodné na použitie, sklamaný.",0
+"Presne taký, aký som potreboval. Veľká spokojnosť.",1
+"Neodporúčam, veľké sklamanie.",0
+"Super výkon za výbornú cenu.",1
+"Kvalita výrobku sklame, niet čo dodať.",0
+"Fantastický výber, veľká radosť.",1
+"Neodporúčam, nekvalitné spracovanie.",0
+"Skvelý výrobok za super cenu!",1
+"Slabý výkon, neodporúčam.",0
+"Spokojný zákazník, odporúčam všetkým.",1
+"Zbytočná investícia, sklamanie.",0
+"Perfektný produkt, veľká radosť.",1
+"Príšerná kvalita, neodporúčam.",0
+"Super rýchlosť dodania, veľká spokojnosť!",1
+"Zlá cena za nedostatočnú kvalitu.",0
+"Výrobok splnil očakávania, veľká spokojnosť.",1
+"Neodporúčam tento produkt, sklamanie.",0
+"Skvelá cena za fantastický výrobok!",1
+"Nič moc, nesplnil moje očakávania.",0
+"Tento produkt je naozaj výborný, veľmi spokojný.",1
+"Výrobok nezodpovedá kvalite, sklamanie.",0
+"Absolútne pozitívna skúsenosť, veľmi odporúčam!",1
+"Zlá cena za nekvalitný výrobok.",0
+"Perfektný nákup, veľká radosť.",1
+"Nevhodný na použitie, sklamaný.",0
+"Presne to, čo som hľadal. Veľká spokojnosť.",1
+"Neodporúčam tento produkt, veľké sklamanie.",0
+"Super výkon za skvelú cenu.",1
+"Kvalita výrobku sklame, nič viac.",0
+"Fantastický výber, veľká radosť.",1
+"Neodporúčam, nedostatočná kvalita spracovania.",0
+"Skvelý výrobok za úžasnú cenu!",1
+"Slabý výkon, neodporúčam.",0
+"Spokojný zákazník, odporúčam všetkým.",1
+"Zbytočná investícia, sklamanie.",0
+"Perfektný produkt, veľká radosť.",1
+"Príšerná kvalita, neodporúčam.",0
+"Super rýchlosť dodania, veľká spokojnosť!",1
+"Zlá cena za nedostatočnú kvalitu.",0
+"Výrobok splnil očakávania, veľká spokojnosť.",1
+"Neodporúčam tento produkt, sklamanie.",0
+"Skvelá cena za fantastický výrobok!",1
+"Nič moc, nesplnil moje očakávania.",0
+"Tento produkt je naozaj výborný, veľmi spokojný.",1
+"Výrobok nezodpovedá kvalite, sklamanie.",0
+"Absolútne pozitívna skúsenosť, veľmi odporúčam!",1
+"Zlá cena za nekvalitný výrobok.",0
+"Perfektný nákup, veľká radosť.",1
+"Nevhodný na použitie, sklamaný.",0
+"Presne to, čo som hľadal. Veľká spokojnosť.",1
+"Neodporúčam tento produkt, veľké sklamanie.",0
+"Super výkon za skvelú cenu.",1
+"Kvalita výrobku sklame, nič viac.",0
+"Fantastický výber, veľká radosť.",1
+"Neodporúčam, nedostatočná kvalita spracovania.",0
+"Skvelý výrobok za úžasnú cenu!",1
+"Slabý výkon, neodporúčam.",0
+"Spokojný zákazník, odporúčam všetkým.",1
+"Zbytočná investícia, sklamanie.",0
+"Perfektný produkt, veľká radosť.",1
+"Príšerná kvalita, neodporúčam.",0
+"Super rýchlosť dodania, veľká spokojnosť!",1
+"Zlá cena za nedostatočnú kvalitu.",0
+"Výrobok splnil očakávania, veľká spokojnosť.",1
+"Neodporúčam tento produkt, sklamanie.",0
+"Skvelá cena za fantastický výrobok!",1
+"Nič moc, nesplnil moje očakávania.",0
+"Tento produkt je naozaj výborný, veľmi spokojný.",1
+"Výrobok nezodpovedá kvalite, sklamanie.",0
+"Absolútne pozitívna skúsenosť, veľmi odporúčam!",1
+"Zlá cena za nekvalitný výrobok.",0
+"Perfektný nákup, veľká radosť.",1
+"Nevhodný na použitie, sklamaný.",0
+"Presne to, čo som hľadal. Veľká spokojnosť.",1
+"Neodporúčam tento produkt, veľké sklamanie.",0
