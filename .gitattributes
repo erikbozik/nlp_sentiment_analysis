@@ -2,3 +2,7 @@ data/translated_tweets_best_model filter=lfs diff=lfs merge=lfs -text
 data/translated_tweets_best_model/config.json filter=lfs diff=lfs merge=lfs -text
 data/translated_tweets_best_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
 data/translated_tweets_best_model/training_args.bin filter=lfs diff=lfs merge=lfs -text
+data/heureka_reviews_best_model/ filter=lfs diff=lfs merge=lfs -text
+data/heureka_reviews_best_model/config.json filter=lfs diff=lfs merge=lfs -text
+data/heureka_reviews_best_model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+data/heureka_reviews_best_model/training_args.bin filter=lfs diff=lfs merge=lfs -text
