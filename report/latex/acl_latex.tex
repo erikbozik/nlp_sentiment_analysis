@@ -1,0 +1,348 @@
+% This must be in the first 5 lines to tell arXiv to use pdfLaTeX, which is strongly recommended.
+\pdfoutput=1
+% In particular, the hyperref package requires pdfLaTeX in order to break URLs across lines.
+
+\documentclass[11pt]{article}
+\documentclass{article}
+
+% Change "review" to "final" or "preprint" to generate the final version or a non-anonymous version with page numbers.
+\usepackage[preprint]{acl}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage{hyperref}
+\usepackage{array} % For better column alignment
+\usepackage{geometry} % For adjusting page margins if needed
+\geometry{margin=1in} % Adjust margins as needed
+\documentclass{article}
+\usepackage{tabularx}
+
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+\lstset{ %
+  backgroundcolor=\color{white},   % choose the background color
+  basicstyle=\footnotesize,        % size of fonts used for the code
+  breaklines=true,                 % automatic line breaking only at whitespace
+  captionpos=b,                    % sets the caption-position to bottom
+  commentstyle=\color{mygreen},    % comment style
+  escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+  keywordstyle=\color{blue},       % keyword style
+  stringstyle=\color{mymauve},     % string literal style
+}
+
+
+\usepackage{longtable} % For tables that might span multiple pages
+
+% For proper rendering and hyphenation of words containing Latin characters (including in bib files)
+\usepackage[T1]{fontenc}
+% For Vietnamese characters
+% \usepackage[T5]{fontenc}
+% See https://www.latex-project.org/help/documentation/encguide.pdf for other character sets
+
+% This assumes your files are encoded as UTF8
+\usepackage[utf8]{inputenc}
+
+% This is not strictly necessary, and may be commented out,
+% but it will improve the layout of the manuscript,
+% and will typically save some space.
+\usepackage{microtype}
+
+% This is also not strictly necessary, and may be commented out.
+% However, it will improve the aesthetics of text in
+% the typewriter font.
+\usepackage{inconsolata}
+
+% Including images in your LaTeX document requires adding
+% additional package(s)
+\usepackage{graphicx}
+
+% If the title and author information does not fit in the area allocated, uncomment the following
+%
+%\setlength\titlebox{<dim>}
+%
+% and set <dim> to something 5cm or larger.
+
+\title{Effects of different types of data for Sentiment Analysis models for Slovak language}
+
+% Author information can be set in various styles:
+% For several authors from the same institution:
+% \author{Author 1 \and ... \and Author n \\
+%         Address line \\ ... \\ Address line}
+% if the names do not fit well on one line use
+%         Author 1 \\ {\bf Author 2} \\ ... \\ {\bf Author n} \\
+% For authors from different institutions:
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \And  ... \And
+%         Author n \\ Address line \\ ... \\ Address line}
+% To start a separate ``row'' of authors use \AND, as in
+% \author{Author 1 \\ Address line \\  ... \\ Address line
+%         \AND
+%         Author 2 \\ Address line \\ ... \\ Address line \And
+%         Author 3 \\ Address line \\ ... \\ Address line}
+
+\author{Erik Božík \and Tomáš Nágel}
+
+%\author{
+%  \textbf{First Author\textsuperscript{1}},
+%  \textbf{Second Author\textsuperscript{1,2}},
+%  \textbf{Third T. Author\textsuperscript{1}},
+%  \textbf{Fourth Author\textsuperscript{1}},
+%\\
+%  \textbf{Fifth Author\textsuperscript{1,2}},
+%  \textbf{Sixth Author\textsuperscript{1}},
+%  \textbf{Seventh Author\textsuperscript{1}},
+%  \textbf{Eighth Author \textsuperscript{1,2,3,4}},
+%\\
+%  \textbf{Ninth Author\textsuperscript{1}},
+%  \textbf{Tenth Author\textsuperscript{1}},
+%  \textbf{Eleventh E. Author\textsuperscript{1,2,3,4,5}},
+%  \textbf{Twelfth Author\textsuperscript{1}},
+%\\
+%  \textbf{Thirteenth Author\textsuperscript{3}},
+%  \textbf{Fourteenth F. Author\textsuperscript{2,4}},
+%  \textbf{Fifteenth Author\textsuperscript{1}},
+%  \textbf{Sixteenth Author\textsuperscript{1}},
+%\\
+%  \textbf{Seventeenth S. Author\textsuperscript{4,5}},
+%  \textbf{Eighteenth Author\textsuperscript{3,4}},
+%  \textbf{Nineteenth N. Author\textsuperscript{2,5}},
+%  \textbf{Twentieth Author\textsuperscript{1}}
+%\\
+%\\
+%  \textsuperscript{1}Affiliation 1,
+%  \textsuperscript{2}Affiliation 2,
+%  \textsuperscript{3}Affiliation 3,
+%  \textsuperscript{4}Affiliation 4,
+%  \textsuperscript{5}Affiliation 5
+%\\
+%  \small{
+%    \textbf{Correspondence:} \href{mailto:email@domain}{email@domain}
+%  }
+%}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}
+
+The aim of this project was to train and fine-tune models using data from multiple sources and then evaluate their performance. Due to the limited availability of sentiment analysis datasets in Slovak, it was necessary to acquire experimental training data. Three different methods were used to gather data, each covering a distinct scope and employing a unique strategy. The methods used were: Translating dataset from english, Web-scraping reviews and syntheticly generated data. We then trained a simple LSTM model and fine-tuned DistilBERT, both with the focus to fit our computational capacities. The evaluation was conducted on a mix of the datasets.
+
+\section{Datasets}
+\subsection{Translated Tweets}
+\subsubsection{Gathering}
+For the first dataset, we chose to translate a well-established dataset already used for Sentiment Analysis. We selected the \href{http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/}{Twitter Sentiment Analysis Training Corpus}, which contains 1,578,612 entries. Translating such a large dataset required a solution that could run locally, so we utilized an \href{https://huggingface.co/michaelfeil/ct2fast-m2m100_1.2B}{open-source translation model} capable of translating to Slovak and small enough that it would not run for days. We created a simple API to translate the data in batches efficiently.
+\subsubsection{Characteristics}
+The original dataset contained four columns: ItemID, Sentiment, SentimentSource, and SentimentText. For our purposes, only the Sentiment and SentimentText columns were relevant. We successfully translated 1,138,103 entries, which is 72\% of the original dataset. Upon reviewing the texts, we noticed a significant use of slang in the tweets. However, the translation model often left slang phrases untranslated. Phrases like "OMG", certain abbreviations, and character-based emojis (e.g., ":o") were not translated. Consequently, the training data contains a mix of Slovak and non-literally English words and sentences. The dataset covers a broad range of topics from everyday life, but the quality is compromised due to translation inaccuracies and language mix-up.
+
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|p{5cm}|c|} % Specify column width with p{}
+        \hline
+        \textbf{SentimentText} & \textbf{Sentiment} \\
+        \hline
+        \raggedright včera večer som sa dostal sooo chorý dúfam, že môžem urobiť fotenie zajtra a v stredu. & 0 \\
+        \hline
+        \raggedright cat power's "sea of love" rendering je magické & 1 \\
+        \hline
+    \end{tabular}
+    \caption{Two sampled rows from the Translated Tweets Dataset}
+    \label{tab:translated tweets}
+\end{table}
+
+This dataset contains a total of 594,008 positive reviews (approximately 52\%) and 544,095 negative reviews (approximately 48\%).
+
+
+\subsection{Heureka reviews}
+\subsubsection{Gathering}
+This dataset was collected using a Python scraper built with the Scrapy library, starting from this \href{https://obchody.heureka.sk/}{URL}. The scraper navigated through each shop and gathered data from pages like \href{https://obchody.heureka.sk/datart-sk/recenze/overene}{this one}. Most reviews included a "+" or "-" before each text, indicating whether the comment was positive or negative. We extracted each text and determined the sentiment based on these indicators. The scraper ran for three days with a one-second delay between requests.
+\subsubsection{Characteristics}
+We successfully scraped a total of 3,048,277 entries. However, many reviews lacked marked sentiment or review\_text, resulting in 1,810,983 valid entries (approximately 60\%). The dataset includes two columns: review\_text and sentiment.
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|p{5cm}|c|} % Specify column width with p{}
+        \hline
+        \textbf{review\_text} & \textbf{sentiment} \\
+        \hline
+        \raggedright Rýchlosť & 1 \\
+        \hline
+        \raggedright  maju v ponuke tovar ktori nie je & 0 \\
+        \hline
+        \raggedright Dobra spokojnost & 1 \\
+        \hline
+        \raggedright Nenašiel som žiadnu nevýhodu. & 0 \\
+        \hline
+    \end{tabular}
+    \caption{Four sampled rows from the Heureka Dataset}
+    \label{tab:translated tweets}
+\end{table}
+
+We identified an incorrect trend in the data: many reviews marked with a minus actually contained non-negative statements such as "no disadvantages" or "none" (as shown in the last row of Table \ref{tab:translated tweets}). We discovered this issue after training all the models which means that it impacted the model's performance. Despite recognizing the problem, we couldn't find a straightforward way to filter these entries, so we did not retrain.
+
+The dataset contains 1,372,124 positive entries (approximately 75\%) and 438,859 negative entries (approximately 25\%). This imbalance was likely caused by the fact that the stores are listed from most to least well-known. More popular stores tend to have more positive reviews  than negative.
+
+
+\subsection{Synthetic data}
+\subsubsection{Gathering}
+We tried multiple ways to acquire this data in csv format and we ended up using the openAI api. The prompt used for generation was:
+
+\begin{longtable}{|m{1cm}|m{6cm}|}
+    \hline
+    \textbf{Role} & \textbf{Content} \\
+    \hline
+    \centering system & You are an assistant that generates unique reviews of products in Slovak with maximum of 25 words and different lengths into csv with columns review\_text and sentiment (1-positive, 0-negative) \\
+    \hline
+    \centering user & Napíš 130 pozitívnych a negatívnych recenzií striedavo \\
+    \hline
+\end{longtable}
+
+This request was send to chatGPT 3.5 turbo using the batch functionality (this enabled us to generate more for less money).
+
+\subsubsection{Characteristics}
+
+The generation of this dataset did not go as expected. Initially, we aimed to generate close to a milion entries which would be comparable to the Heureka or Translated Tweets datasets, but we only managed to generate 171,741 entries. Our efforts were constrained by budget limitations and the API tier. Although we attempted to prompt directly through the chatGPT front end, generating a comparable number of entries this way would have taken days.
+
+Additionally, some outputs were clearly incorrect, either lacking sentiment or containing empty strings, which further reduced the number of usable entries. Nevertheless, similar to the Heureka dataset, we ended up with two columns: review\_text and sentiment.
+
+\begin{longtable}{|p{5cm}|c|}
+    \hline
+    \textbf{review\_text} & \textbf{sentiment} \\
+    \hline
+    \centering Skvelý pomer cena/výkon, silná doporučená. & 1 \\
+    \hline
+    \centering Bohužiaľ, táto vec nefunguje ako by som čakal. & 0 \\
+    \hline
+    \centering  Nevýhodná cena za kvalitu. & 0 \\
+    \hline
+    \centering Odporúčam všetkým! & 1 \\
+    \hline
+\end{longtable}
+
+The texts in this dataset are very formal, maintaining a literary tone. Upon reviewing the data, we did not encounter sentences that differed significantly from the given prompt. The dataset consists of 86,438 positive sentiments (approximately 50.3\%) and 85,303 negative sentiments (approximately 49.7\%).
+
+\subsection{Conclusion}
+We obtained three datasets, each with distinct characteristics. While they share some similarities—for instance, both the Heureka and synthetic datasets focus on reviews—they differ significantly in other aspects. Consequently, we anticipate that each trained model will have unique characteristics.
+
+\section{Training}
+\subsection{LSTM}
+\subsubsection{Processing}
+We used the same processing for all of the datasets. The texts were lowered and everything that did not match the regex \begin{verbatim}[^\w\s]\end{verbatim} (not a word character or space) was replaced with empty string.
+\subsubsection{Tokenizer}
+In order for the neural network to deal with the texts we needed to vectorize it and convert it to sequences.
+\newpage
+
+\begin{lstlisting}[language=Python, caption=Code used for tokenizing]
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+max_features = 5000
+tokenizer = Tokenizer(num_words=max_features, split=' ')
+tokenizer.fit_on_texts(data['SentimentText'].values)
+X = tokenizer.texts_to_sequences(data['SentimentText'].values)
+X = pad_sequences(X)
+Y = tweets['Sentiment'].values
+    
+\end{lstlisting}
+For this purpose, we decided to use the Tokenizer from TensorFlow. Since our goal is to train the model exclusively using TensorFlow, this tokenizer provides seamless integration.
+
+\subsubsection{Training}
+Each dataset was split using the train\_test\_split method from scikit-learn with test/train ratio 80/20. The random state is fixed to 42 everywhere in this project. The model consists of four layers. We selected these layers and their hyperparameters based on the resources listed at the end of this project, where similar issues were addressed. It's crucial to get this right from the start, as each experiment demands significant time and computational resources. A poorly trained model would hinder our ability to properly evaluate the results.
+
+\begin{lstlisting}[language=Python, caption=Composing the layers]
+from tensorflow.keras.layers import Embedding, LSTM, Dense, SpatialDropout1D
+from tensorflow.keras.models import Sequential
+embed_dim = 128
+lstm_out = 196
+model = Sequential()
+model.add(Embedding(max_features, embed_dim, input_length=X.shape[1]))
+model.add(SpatialDropout1D(0.4))
+model.add(LSTM(lstm_out, dropout=0.2, recurrent_dropout=0.2))
+model.add(Dense(2, activation='softmax'))
+model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+    
+\end{lstlisting}
+
+The code above was reused for every dataset. We trained the model consistently using 5 epochs, with batch size as the only variable parameter. Since every dataset had different shape, we adjusted the batch size to balance performance and training time. This adjustment was guided by observing the accuracy during training: if the accuracy dropped significantly with a larger batch size, we reduced it. Similarly, if the accuracy remained comparable to smaller batch sizes, we retained the larger size to leverage the GPU and achieve faster training times. 
+
+\begin{lstlisting}[language=Python, caption=Fitting the model]
+from tensorflow.keras.callbacks import EarlyStopping
+batch_size = 32
+epochs = 5
+
+early_stopping = EarlyStopping(monitor='val_loss', patience=3, verbose=1, restore_best_weights=True)
+
+model.fit(X_train, Y_train, epochs=epochs, batch_size=batch_size, validation_data=(X_test, Y_test), callb
+    
+\end{lstlisting}
+
+\subsubsection{Training results}
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|c|c|c|c|} % Specify column width with p{} for the first column and c for the rest
+        \hline
+        \textbf{Training dataset} & \textbf{Batch size} & \textbf{Accuracy} & \textbf{Loss} \\
+        \hline
+        Translated tweets & 32 & 0.78 & 0.45 \\
+        \hline
+        Heureka reviews & 256 & 0.96 & 0.10 \\
+        \hline
+        Syntetic data & 32 & 0.96 & 0.10 \\
+        \hline
+    \end{tabular}
+    \caption{LSTM evaluation on their test sets}
+    \label{tab:lstm_train_eval}
+\end{table}
+
+Training the model on the translated tweets dataset proved to be more challenging compared to the other two datasets. It seems that the translation quality and language imbalance might have caused problems with fitting the data. Overall, we can say that each model was trained successfully with sufficient accuracy.
+
+
+
+\section{Evaluation}
+We created a combined dataset by sampling 50,000 rows from each of the original datasets. Mixed dataset contained 150,000 rows with 59.4\% of positive and 40.6\% of negative sentiments. We then evaluated all our trained and fine-tuned models on this mixed dataset.
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|c|c|c|c|c|} 
+        \hline
+        \textbf{Model} & \textbf{Train data} & \textbf{Accuracy} & \textbf{Precision} & \textbf{F1} \\
+        \hline
+        LSTM & Tweets & 0.78 & 0.78 & 0.78 \\
+        \hline 
+        DistilBert & Tweets & 0.85 & 0.85 & 0.85 \\
+        \hline
+        LSTM & Synthetic & 0.76 & 0.79 & 0.76 \\
+        \hline
+        DistilBert & Synthetic & 0.80 & 0.80 & 0.80 \\
+        \hline
+        LSTM & Heureka & 0.82 & 0.82 & 0.82 \\
+        \hline
+        DistilBert & Heureka & 0.83 & 0.83 & 0.83 \\
+        \hline
+    \end{tabular}
+    \caption{Evaluation of models on mixed dataset}
+    \label{tab:model_eval}
+\end{table}
+
+As expected, the fine-tuned DistilBERT outperformed the LSTM models. However, the margin of improvement is only a few percentage points across each metric. Therefore, the difference is not substantial. The precision ranges from 78\% to 83\%, which we consider highly satisfactory for our purposes.
+
+\section{Future Work}
+The primary area for improvement lies in the training data itself. As mentioned earlier, there are multiple issues with the training sets that cannot be easily resolved. Therefore, training the models on datasets where these issues have been addressed could be a task for future work. Additionally, there is potential for improvement in the evaluation dataset. Since we did not have completely separate data for evaluation, the evaluation set included one-third of the data used in training for each model.
+    
+\section{Resources}
+\begin{enumerate}
+    \item \href{https://www.kaggle.com/code/ngyptr/lstm-sentiment-analysis-keras}{LSTM Sentiment Analysis | Keras}
+
+    \item \href{https://www.analyticsvidhya.com/blog/2022/01/sentiment-analysis-with-lstm/}{Sentiment Analysis with LSTM}
+
+    \item \href{https://javilopezcastillo.medium.com/sentiment-analysis-using-lstm-networks-a-deep-dive-into-textual-data-61cdd2e43dec}{Sentiment Analysis Using LSTM Networks: A Deep Dive into Textual Data}
+\end{enumerate}
+
+
+\end{document}
