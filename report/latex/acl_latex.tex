@@ -293,7 +293,7 @@ model.fit(X_train, Y_train, epochs=epochs, batch_size=batch_size, validation_dat
         \hline
         Heureka reviews & 256 & 0.96 & 0.10 \\
         \hline
-        Syntetic data & 32 & 0.96 & 0.10 \\
+        GPT 3.5 generated data & 32 & 0.96 & 0.10 \\
         \hline
     \end{tabular}
     \caption{LSTM evaluation on their test sets}
@@ -302,7 +302,99 @@ model.fit(X_train, Y_train, epochs=epochs, batch_size=batch_size, validation_dat
 
 Training the model on the translated tweets dataset proved to be more challenging compared to the other two datasets. It seems that the translation quality and language imbalance might have caused problems with fitting the data. Overall, we can say that each model was trained successfully with sufficient accuracy.
 
+\subsection{DistilBERT}
+\subsubsection{Processing}
+Each dataset has been processed the same way as with LSTM. The datasets (a DataFrame) are split into training and testing sets. This is important to evaluate the model's performance on unseen data.
+\subsubsection{Tokenizer}
+The tokenizer is responsible for converting raw text into a format that the model can understand, specifically into token IDs and attention masks. The tokenized dataset is further formatted for PyTorch, setting up the necessary columns like input IDs, attention masks, and labels, ensuring that the data is ready for training with the PyTorch framework.
 
+\begin{lstlisting}[language=Python, caption=Code used for tokenizing]
+from transformers import DistilBertTokenizer, DistilBertForSequenceClassification
+tokenizer = DistilBertTokenizerFast.from_pretrained('distilbert-base-multilingual-cased')
+def df_to_dataset(df, tokenizer):
+    dataset = Dataset.from_pandas(df)
+    def tokenize_function(examples):
+        return tokenizer(examples['text'], padding="max_length", truncation=True, max_length=512)
+    return dataset.map(tokenize_function, batched=True, num_proc=4)
+train_dataset = df_to_dataset(train_df, tokenizer)
+test_dataset = df_to_dataset(test_df, tokenizer)
+tokenized_dataset = DatasetDict({
+    'train': train_dataset,
+    'test': test_dataset
+})
+tokenized_dataset.set_format('torch', columns=['input_ids', 'attention_mask', 'labels'])
+\end{lstlisting}
+
+\subsubsection{Metrics}
+A function is defined to compute evaluation metrics like accuracy, precision, recall, and F1 score. These metrics are used to assess the performance of the model during and after training.
+\begin{lstlisting}[language=Python, caption=Code for computing metrics]
+def compute_metrics(eval_pred):
+    logits, labels = eval_pred
+    predictions = np.argmax(logits, axis=-1)
+    precision, recall, f1, _ = precision_recall_fscore_support(labels, predictions, average='weighted')
+    acc = accuracy_score(labels, predictions)
+    return {
+        'accuracy': acc,
+        'f1': f1,
+        'precision': precision,
+        'recall': recall
+}
+\end{lstlisting}
+
+\subsubsection{Training}
+The model is configured for sequence classification with two labels (binary classification). The model is then moved to the selected device to ensure that all computations happen on the correct hardware.
+Training arguments are specified, including the output directory for results, number of training epochs, batch sizes for training and evaluation, warmup steps, weight decay, logging configuration, and whether to use 16-bit floating point precision if available. These settings are crucial for controlling the training process and optimizing performance.
+The Hugging Face Trainer class is instantiated with the model, training arguments, datasets, and the metrics function. The Trainer class handles the training loop, evaluation, and other tasks, simplifying the training process.
+The model is trained using the Trainer's train method. After training, the model is saved, and the evaluation on the test set is performed to obtain validation results, including accuracy and other metrics.
+
+\begin{lstlisting}[language=Python, caption=Code for setting up and training the model]
+batch_size = 16
+training_args = TrainingArguments(
+    output_dir="./results",
+    num_train_epochs=3,
+    per_device_train_batch_size=batch_size,
+    per_device_eval_batch_size=batch_size,
+    warmup_steps=500,
+    weight_decay=0.01,
+    logging_dir='./logs',
+    logging_steps=50,
+    save_strategy="epoch",
+    evaluation_strategy="epoch",
+    load_best_model_at_end=True,
+    fp16=torch.cuda.is_available(),
+    dataloader_num_workers=4
+)
+trainer = Trainer(
+    model=model,
+    args=training_args,
+    train_dataset=tokenized_dataset["train"],
+    eval_dataset=tokenized_dataset["test"],
+    compute_metrics=compute_metrics
+)
+trainer.train()
+trainer.save_model("./best_model")
+results = trainer.evaluate()
+print(f"Validation Results: {results}")
+\end{lstlisting}
+
+\subsubsection{Training results}
+
+\begin{table}[h!]
+    \centering
+    \begin{tabular}{|c|c|c|c|} % Specify column width with p{} for the first column and c for the rest
+        \hline
+        \textbf{Training dataset} & \textbf{Batch size} & \textbf{Accuracy} & \textbf{Loss} \\
+        \hline
+        Translated tweets & 16 & 0.80 & 0.44 \\
+        \hline
+        Heureka reviews & 16 & 0.97 & 0.114 \\
+        \hline
+        GPT 3.5 generated data & 16 & 0.99 & 0.044 \\
+        \hline
+    \end{tabular}
+    \caption{DistilBERT evaluation on their test sets}
+    \label{tab:lstm_train_eval}
+\end{table}
 
 \section{Evaluation}
 We created a combined dataset by sampling 50,000 rows from each of the original datasets. Mixed dataset contained 150,000 rows with 59.4\% of positive and 40.6\% of negative sentiments. We then evaluated all our trained and fine-tuned models on this mixed dataset.
@@ -342,6 +434,14 @@ The primary area for improvement lies in the training data itself. As mentioned 
     \item \href{https://www.analyticsvidhya.com/blog/2022/01/sentiment-analysis-with-lstm/}{Sentiment Analysis with LSTM}
 
     \item \href{https://javilopezcastillo.medium.com/sentiment-analysis-using-lstm-networks-a-deep-dive-into-textual-data-61cdd2e43dec}{Sentiment Analysis Using LSTM Networks: A Deep Dive into Textual Data}
+
+    \item \href{https://huggingface.co/distilbert/distilbert-base-multilingual-cased#training-details}{Model Card for DistilBERT base multilingual cased (HuggingFace)}
+
+    \item \href{https://huggingface.co/docs/transformers/tasks/sequence_classification}{Text Classification using BERT Models (HuggingFace)}
+
+    \item \href{https://huggingface.co/docs/transformers/training}{Fine-tune a pretrained model (HuggingFace)}
+
+    
 \end{enumerate}
 
 
